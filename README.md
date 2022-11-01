@@ -1,7 +1,9 @@
-# About me 😎
-Hi, I'm Abdulhamid. Mousa, a passionate self-taught (Networking and IT, ML/DL) Engineer from Egypt. I've got a degree in Mechanical Engineering from Beihang University 🎓, and currently pursuing my Masters's degree at BIT.Uni majoring in Mechanical Engineering. 
+### Hi there 👋 I'm [Abdulhamid M. Mousa](https://www.linkedin.com/in/abdulhamid-m-mousa-833a49204/)
+> Engineer, Researcher, and Content Creator
 
-I'm a passionate learner who's always wiling to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that i also love to guide and mentor newbies👨🏽‍💻 and join open source project 💻. I'm currently researching Bearing Fault diagnosis and learning web development. and working on my Graduation project 🤓. 
+- 🎓 I've got a degree in Mechanical Engineering from Beihang University, and currently pursuing my Masters's degree at BIT.Uni majoring in Mechanical Engineering. 
+
+- 💡 I'm a passionate learner who's always wiling to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that i also love to guide and mentor newbies👨🏽‍💻 and join open source project 💻. I'm currently researching Bearing Fault diagnosis and learning web development. and working on my Graduation project 🤓. 
 
 
 # Skills and Experience ✨
