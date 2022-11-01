@@ -7,7 +7,7 @@
 
 
 # Skills and Experience ✨
-* Python, C++
+* Python
 * ML, DL
 * HTML, CSS, JS
 
