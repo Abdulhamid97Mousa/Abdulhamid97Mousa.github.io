@@ -49,17 +49,18 @@ linkedin_username: www.linkedin.com/in/abdulhamid-m-mousa-833a49204/
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-  Hi there 👋 I'm [Abdulhamid M. Mousa](https://www.linkedin.com/in/abdulhamid-m-mousa-833a49204/)
-  DevOps Engineer, ML/DL Researcher, and Content Creator
+Hi there 👋 I'm [Abdulhamid M. Mousa](https://www.linkedin.com/in/abdulhamid-m-mousa-833a49204/)
+DevOps Engineer, ML/DL Researcher, and Content Creator
 
 - 🎓 I've got a degree in Mechanical Engineering from Beihang University, and currently pursuing my Masters's degree in Mechanical Engineering at Beijing Institute of Technology.
 
 - 💡 I'm a passionate learner who's always wiling to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-world problems✨. Apart from that i also spend my time guide and mentor newbies👨🏽‍💻 and wants to join open source project 💻
 -  Currently researching Bearing Fault diagnosis, [Bearing Fault Diagnosis Method Based on Spectrum Map Information Fusion and CNNs](https://github.com/Abdulhamid97Mousa/Bearing-Fault-Diagnosis-Method-Based-on-Spectrum-Map-Information-Fusion-and-CNNs) 📝
 -  Leanring *Ansible Automation* and *Web development*. 😎
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+#  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+#
+#  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
