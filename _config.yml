@@ -52,8 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
 Hi there, my name's Hamid and i'm a DevOps Engineer, ML/DL Researcher, and Content Creator
 I'm a passionate learner who's always wiling to learn and work across technologies and domains.\
 I love to explore new technologies and leverage them to solve real-world problems. \
-Apart from that i also spend my time guide and mentor newbies and wants to join open source project 💻
-Currently i'm learning containerization technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark> as well as automation and orchestration with <mark>Ansible</mark>
+Apart from that i also spend my time guide and mentor newbies and wants to join open source project Currently,\
+i'm learning containerization technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark> as well as automation and orchestration with <mark>Ansible</mark>
 
 #  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 #
