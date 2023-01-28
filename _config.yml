@@ -46,7 +46,7 @@ linkedin_username: https://www.linkedin.com/in/abdulhamid-m-mousa-833a49204/
 
 # About Section
 about_title: About Me
-about_profile_image: ./img/profile.jpg
+about_profile_image: img/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi there, my name's Hamid and i'm a <mark>DevOps Engineer</mark>, <mark>ML/DL Researcher</mark>, and <mark>Content Creator</mark>. 
   I'm a passionate learner who's always wiling to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-world problems. 
@@ -55,12 +55,10 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Objectives # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-      - layout: text
-        content: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. \
-          I have learned many skills through this and been I'm very proud of having this in my portfolio. \
-          If you don't have a project as awesome as this I would advise you make one.
+    content: | # this will include new lines to allow paragraphs
+      I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. \
+      I have learned many skills through this and been I'm very proud of having this in my portfolio. \
+      If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -90,17 +88,17 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+#  - title: A Little More About Me
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#      - Rock climbing
+#      - Gaming
+#      - Knitting
+#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#
+#       Look at this cool image
+#       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
