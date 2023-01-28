@@ -79,7 +79,7 @@ content:
         sub_title: Graduate Researcher
         caption: Sep 2021 - Present
         quote: >
-          Diagnosis of Bearing Faults using variety of Convolutional neural networks (CNN).
+          Solving one of the most pressing problems in the field Bearing Faults Diagnosis using variety of Convolutional neural networks (CNN).
         description: | # this will include new lines to allow paragraphs
           Bearing fault diagnosis is the process of detecting and diagnosing faults in bearings, which are critical components of many rotating element machinary.
           in this research field it is important to accurately diagnose bearing faults in order to prevent further damage and costly repairs. 
