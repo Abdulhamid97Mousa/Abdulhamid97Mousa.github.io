@@ -47,6 +47,7 @@ linkedin_username: https://www.linkedin.com/in/abdulhamid-m-mousa-833a49204/
 # About Section
 about_title: About Me
 about_profile_image: img/profile.jpg
+
 about_content: | # this will include new lines to allow paragraphs
   Hamid is an exceptional <mark>System-Administrator</mark> who proves himself to be a valuable asset to any team. He has a deep understanding of IT infrastructure and protocols, 
   and is proficient in both maintaining and managing operating systems. Hamid is an eager and enthusiastic learner, with a passion for exploring new technologies and finding ways to use them to solve real-world problems. He has already achieved a great deal of success in his current role, 
