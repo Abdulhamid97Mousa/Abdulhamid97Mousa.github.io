@@ -48,17 +48,22 @@ linkedin_username: https://www.linkedin.com/in/abdulhamid-m-mousa-833a49204/
 about_title: About Me
 about_profile_image: img/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hamid is a dedicated and highly organized Systems Administrator who has plenty of experience in managing and maintaining IT systems.
+  Hamid is a dedicated and highly organized <mark>System Administrator</mark> who has plenty of experience in managing and maintaining operating systems.
   He has an extensive knowledge of IT infrastructure and protocols to ensure that systems are running smoothly and reliably. 
-  He is proficient in managing and using successful systems administration strategies. In addition, Hamid is an eager and enthusiastic learner who is willing to explore new technologies and use them to solve problems. 
-  He is also a mentor to newbies and is looking to join open source projects. Currently, he is studying containerization technologies such as Docker and Kubernetes, as well as automation and orchestration with Ansible.
+  He is proficient in managing and applying best practices of systems administration strategies. In addition, Hamid is an eager and enthusiastic learner who is willing to explore new technologies and use them to solve real-world problems. 
+  He is also a mentor to newbies and is looking to join open source projects. Currently, he is studying containerization technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark>, as well as automation and deployment tools like <mark>Ansible</mark> and <mark>Terraform</mark>.
 
 content:
   - title: Objectives # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      Hamid is a System Administrator with entry-level work experience, specializing in help desk support, Linux Administration, Network Monand troubleshooting.
-      Adept at performing hardware and software upgrades and providing technical support to customers to resolve complex issues.
+      I am writing to express my interest in the system administration position which will help me later in building a DevOps Career. With my experience in IT and system administration, I am confident I can contribute to the success of your organization.
+      Having been in the IT industry for the past 3 years, I have acquired a wealth of experience and knowledge in IT system administration as well as the development cycle of IT solutions. During this time, I have maintained and managed computer systems and networks with a high level of efficiency.
+      in additon, I have also developed a wide range of skills in deploying infrastructure using <mark> Ansible & Terraform </mark> whether on premis or on <mark>AWS Cloud</mark>, programing with <mark>Python</mark>, software installation, troubleshooting, and system maintenance.
+      similary, I have successfully implemented a number of IT projects, which have improved the efficiency and reliability of the systems. 
+
+      My strong communication skills allow me to effectively convey technical details in a straightforward manner. I am a fast learner with strong attention to detail, able to work solo or as part of a team. I have proficiency in various computer programs and operating systems, including Debian-based, Redhat-based, and Windows Server.
+      I am confident in my abilities and believe I can make a positive impact on your organization. I am eager to apply my skills and knowledge to help drive success.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
