@@ -1,36 +1,138 @@
-highlighter: rouge
-markdown: kramdown
-rdiscount:
-  extensions: [smart]
-permalink: :title.html
-paginate: 5
-plugins: [jekyll-paginate]
-port: 4000
-safe: true
-url: http://jekyllt.github.io/vitae
-author: Fábio Madeira
+# Site
+repository: www.github.com/Abdulhamid97Mousa/Abdulhamid97Mousa.github.io
+favicon: images/favicon.ico
 
-# edit this section with your information
-# jekyllt.github.io - all contents run on /vitae/
-# for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://jekyllt.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
-google_analytics: UA-69300817-1
+# Content configuration version
+version: 2
 
-# needed for travis-ci build
-exclude: [vendor]
+# Personal info
+name: Abdulhamid Mousa
+title: DevOps Engineer & ML/DL Researcher
+email: abdulhamid97mousa@gmail.com
+website: www.abdulhamid97mousa.tk
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: www.twitter.com/HAMID97MOUSA
+github_username: www.github.com/Abdulhamid97Mousa
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+facebook_username: www.abdulhamid97mousa.tk
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: https://www.linkedin.com/in/abdulhamid-m-mousa-833a49204/
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# About Section
+about_title: About Me
+about_profile_image: img/profile.jpg
+
+about_content: | # this will include new lines to allow paragraphs
+  Hamid is a <mark>System Administration</mark>. He has a deep understanding of IT infrastructure and protocols, 
+  and is proficient in both deploying and managing <mark> IT infrastructure </mark>. Hamid is a quick learner, with a passion for exploring new technologies and finding ways to utilize them to solve real-world problems. He has already achieved a great deal of success in his current role. similarly, 
+  studying containerization technologies such as <mark> Docker </mark> and <mark> Kubernetes </mark>. he has also developed an interest in automation and deployment tools like <mark>Ansible</mark> and <mark>Terraform</mark>. 
+
+  Hamid is an excellent mentor to newbies; his dedication and highly organized nature make him an ideal person to share knowledge and help others get up to speed with the latest technologies. 
+  in addition, He is a reliable and hardworking individual, and his knowledge and willingness to learn makes him an invaluable team member. The modern workplace is ever-evolving, 
+  and Hamid is the perfect example of the kind of engineer who can keep up to date with ever-changing technologies and practices.
+
+content:
+  - title: Objectives # Title for the section
+    layout: text # Type of content section (list/text)
+    content: | # this will include new lines to allow paragraphs
+      I am writing to express my interest in the <mark>System Administration</mark>  position which will help me later in building a career as <mark> DevOps </mark> engineer. With my experience in IT and system administration, I am confident I can contribute to the success of your organization.
+      Having been in the IT industry for the past 3 years, I have acquired a wealth of experience and knowledge in IT system administration as well as the development cycle of IT solutions. During this time, I have maintained and managed computer systems and networks with a high level of efficiency.
+      in additon, I have also developed a wide range of skills in deploying infrastructure using <mark> Ansible </mark> and <mark> Terraform </mark> whether on premis or on <mark> AWS Cloud </mark>, programing with <mark> Python </mark>, software installation, troubleshooting, and system maintenance.
+      similary, I have successfully implemented a number of IT projects, which have improved the efficiency and reliability of the systems. 
+
+      My strong communication skills enables me to effectively convey technical details in a straightforward manner. on the contrary, I am a quick learner with strong attention to details, able to work solo or as part of a team. I have proficiency in various computer programs and operating systems,
+      including Debian-based, Redhat-based, and Windows Server.
+      I am confident in my abilities and believe I can make a positive impact on your organization. I am looking forward to opportunities to apply my skills and knowledge and drive success.
+
+  - title: Licenses & Certificates # Title for the section
+    layout: text # Type of content section (list/text)
+    content:
+      - Red Hat® Certified System Administrator (RHCSA®)
+      - Red Hat® Certified Engineer (RHCE®)
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Beijing Institute Of Technology
+        link: https://english.bit.edu.cn/
+        sub_title: Graduate Researcher
+        caption: Sep 2021 - Present
+        quote: >
+          Solving one of the most pressing problems in the field Bearing Faults Diagnosis using variety of Convolutional neural networks (CNN).
+        description: | # this will include new lines to allow paragraphs
+          Bearing fault diagnosis is the process of detecting and diagnosing faults in bearings, which are critical components of many rotating element machinary.
+          in this research field, it is important to accurately diagnose bearing faults in order to prevent further damage and costly repairs. 
+          Traditionally, bearing fault diagnosis has been done using signal processing techniques, such as wavelet analysis and time-frequency analysis. However,
+          these methods are limited in their ability to accurately detect and diagnose faults. Branch CNNs along with many other CNNs architectures offer a more accurate and efficient approach to bearing fault diagnosis. 
+          In this approach, a CNN is trained to identify patterns in the vibration data from a bearing. The CNN can then be used to detect and diagnose faults in the bearing. 
+          This approach has been shown to offer improved accuracy and efficiency compared to traditional signal processing techniques.
+          During my graduate research i've successfully reproduced results of published papers and helped my lab mates in building a more robust CNNs to detect bearings faults.
+          1. [1D-CNN Vibration Signal Bearing Fault Diagnosis](github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis)
+          2. [Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions](github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_C2N)
+
+      - layout: left
+        title: Beihang University
+        link: https://ev.buaa.edu.cn/
+        # link_text: boringcompany.com
+        sub_title: BSc Mechanical Engineering and Automation
+        caption: 2015 - 2019
+        quote: >
+          Published A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ball-screw Actuator as 3rd Author.
+        description: | # this will include new lines to allow paragraphs
+          The use of a capsule-type device for soft tissue cutting using a threadless ball-screw actuator is an innovative step forward in the field of medical technology. This device provides an efficient, precise and safe method of cutting soft tissue in (GI) gastrointestinal, such as fat, muscle, or cancerous and connective tissue. The device consists of a capsule with a built-in motor-driven actuator and a cutting blade. The cutting blade is actuated by a ball-screw, which is threadless and self-contained within the capsule. This is a significant advancement over traditional methods of cutting soft tissue, which can be more time consuming and potentially hazardous.
+          The capsule-type device is highly versatile and can be used for a variety of medical procedures, including biopsies, liposuction, and even tissue removal. Its precision and efficiency make it an attractive option for surgeons and medical professionals. Furthermore, the device is relatively easy to use and requires minimal setup and training.
+          Overall, the use of a capsule-type device for soft tissue cutting using a threadless ball-screw actuator is a major advancement in the field of medical technology. It offers a precise, safe and efficient way to cut soft tissue, making it an attractive option for a variety of
+          1. [A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ballscrew Actuator](https://ieeexplore.ieee.org/document/8860958)
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Beihang University
+        caption: 2015 - 2019
+        link: https://english.bit.edu.cn/
+        sub_title: BSc Mechanical Engineering
+        quote: >
+          Published A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ball-screw Actuator as the second author
+        description: | # this will include new lines to allow paragraphs
+          The use of a capsule-type device for soft tissue cutting using a threadless ball-screw actuator is an innovative step forward in the field of medical technology. This device provides an efficient, precise and safe method of cutting soft tissue in (GI) gastrointestinal, such as fat, muscle, or cancerous and connective tissue. The device consists of a capsule with a built-in motor-driven actuator and a cutting blade. The cutting blade is actuated by a ball-screw, which is threadless and self-contained within the capsule. This is a significant advancement over traditional methods of cutting soft tissue, which can be more time consuming and potentially hazardous.
+          The capsule-type device is highly versatile and can be used for a variety of medical procedures, including biopsies, liposuction, and even tissue removal. Its precision and efficiency make it an attractive option for surgeons and medical professionals. Furthermore, the device is relatively easy to use and requires minimal setup and training.
+          Overall, the use of a capsule-type device for soft tissue cutting using a threadless ball-screw actuator is a major advancement in the field of medical technology. It offers a precise, safe and efficient way to cut soft tissue, making it an attractive option for a variety of
+
+#  - title: A Little More About Me
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#      - Rock climbing
+#      - Gaming
+#      - Knitting
+#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#
+#       Look at this cool image
+#       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
