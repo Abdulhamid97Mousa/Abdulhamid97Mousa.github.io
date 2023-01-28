@@ -76,7 +76,7 @@ content:
       - layout: left
         title: Red Hat® Certified System Administrator (RHCSA®)
         link: https://www.credly.com/earner/earned/badge/652955ed-af09-446d-88a7-2f317d49a0f2
-        image: <img src="C:\Users\pc\Documents\GitHub\Abdulhamid97Mousa.github.io\img\Beijing_Institute_of_Technology_logo.png" alt="An example of image tag markup" >
+        image: <img src="img/Beijing_Institute_of_Technology_logo.png">
         sub_title: Graduate Researcher
         caption: Sep 2021 - Present
         quote: >
