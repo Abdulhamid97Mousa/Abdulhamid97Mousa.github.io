@@ -9,7 +9,7 @@ version: 2
 name: Abdulhamid Mousa
 title: DevOps Engineer & ML/DL Researcher
 email: abdulhamid97mousa@gmail.com
-website: www.abdulhamid97mousa.tk
+website: https://www.abdulhamid97mousa.tk
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -46,66 +46,51 @@ linkedin_username: https://www.linkedin.com/in/abdulhamid-m-mousa-833a49204/
 
 # About Section
 about_title: About Me
-about_profile_image: img/profile.jpg
+about_profile_image: ./img/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi there, my name's Hamid and i'm a <mark>DevOps Engineer</mark>, <mark>ML/DL Researcher</mark>, and <mark>Content Creator</mark>
-  I'm a passionate learner who's always wiling to learn and work across technologies and domains.\
-  I love to explore new technologies and leverage them to solve real-world problems. \
-  Apart from that i also spend my time guide and mentor newbies and wants to join open source project Currently,\
+  Hi there, my name's Hamid and i'm a <mark>DevOps Engineer</mark>, <mark>ML/DL Researcher</mark>, and <mark>Content Creator</mark>. I'm a passionate learner who's always wiling to learn and work across technologies and domains.
+  I love to explore new technologies and leverage them to solve real-world problems. Apart from that i also spend my time guide and mentor newbies and wants to join open source project Currently,\
   i'm learning containerization technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark> as well as automation and orchestration with <mark>Ansible</mark>
 
 content:
-    - title: Projects # Title for the section
+    - title: Objectives # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title: sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. \
-          I have learned many skills through this and been I'm very proud of having this in my portfolio. \
-          If you don't have a project as awesome as this I would advise you make one.
+      description: | # this will include new lines to allow paragraphs
+        I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. \
+        I have learned many skills through this and been I'm very proud of having this in my portfolio. \
+        If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title: sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. \
-          I have learned many skills through this and been I'm very proud of having this in my portfolio. \
-          If you don't have a project as awesome as this I would advise you make one.
+#  - title: Projects # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: top-middle
+#        title: Super awesome project
+#        link: github.com/sproogen
+#        # link_text: Project Website
+#        additional_links:
+#          - title: sproogen/modern-resume-theme
+#            icon: fab fa-github
+#            url: github.com/sproogen/modern-resume-theme
+#          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#          #   icon: fab fa-github
+#          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#        quote: >
+#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#        description: | # this will include new lines to allow paragraphs
+#          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. \
+#          I have learned many skills through this and been I'm very proud of having this in my portfolio. \
+#          If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Beijing Institute Of Technology
+        link: https://english.bit.edu.cn/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Graduate Researcher
+        caption: Sep 2021 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
