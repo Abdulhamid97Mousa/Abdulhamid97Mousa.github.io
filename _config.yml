@@ -1,5 +1,5 @@
 # Site
-repository: https://www.github.com/Abdulhamid97Mousa/Abdulhamid97Mousa.github.io
+repository: www.github.com/Abdulhamid97Mousa/Abdulhamid97Mousa.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -9,14 +9,14 @@ version: 2
 name: Abdulhamid Mousa
 title: DevOps Engineer & ML/DL Researcher
 email: abdulhamid97mousa@gmail.com
-website: https://www.abdulhamid97mousa.tk
+website: www.abdulhamid97mousa.tk
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: https://www.twitter.com/HAMID97MOUSA
-github_username: https://www.github.com/Abdulhamid97Mousa
+twitter_username: www.twitter.com/HAMID97MOUSA
+github_username: www.github.com/Abdulhamid97Mousa
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -49,25 +49,25 @@ about_title: About Me
 about_profile_image: img/profile.jpg
 
 about_content: | # this will include new lines to allow paragraphs
-  Hamid is an exceptional <mark>System-Administrator</mark> who proves himself to be a valuable asset to any team. He has a deep understanding of IT infrastructure and protocols, 
-  and is proficient in both maintaining and managing operating systems. Hamid is an eager and enthusiastic learner, with a passion for exploring new technologies and finding ways to use them to solve real-world problems. He has already achieved a great deal of success in his current role, 
-  and is now looking to join open source projects, as well as studying containerization technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark>, and automation and deployment tools like <mark>Ansible</mark> and <mark>Terraform</mark>. 
+  Hamid is an Outstanding <mark>System-Administrator</mark> who has an interset in cloud technologies and services. He has a deep understanding of IT infrastructure and protocols, 
+  and is proficient in both maintaining and managing <mark>operating systems</mark>. Hamid is an eager and enthusiastic learner, with a passion for exploring new technologies and finding ways to use them to solve real-world problems. He has already achieved a great deal of success in his current role, 
+  and is now looking to join open source projects, as well as studying containerization technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark>. he has also developed an interest in automation and deployment tools like <mark>Ansible</mark> and <mark>Terraform</mark>. 
 
-  Hamid is also an excellent mentor to newbies; his dedication and highly organized nature make him an ideal person to help others get up to speed with the latest technologies. 
+  Hamid is also an excellent mentor to newbies; his dedication and highly organized nature make him an ideal person to share knowledge and help others get up to speed with the latest technologies. 
   in addition, He is a reliable and hardworking individual, and his knowledge and willingness to learn makes him an invaluable asset to any team. The modern workplace is ever-evolving, 
-  and Hamid is the perfect example of the kind of worker who can keep up with ever-changing technologies and practices.
+  and Hamid is the perfect example of the kind of engineer who can keep up with ever-changing technologies and practices.
 
 content:
   - title: Objectives # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      I am writing to express my interest in the system administration position which will help me later in building a DevOps Career. With my experience in IT and system administration, I am confident I can contribute to the success of your organization.
+      I am writing to express my interest in the <mark>System Administration</mark> position which will help me later in building a career in <mark>DevOps</mark>. With my experience in IT and system administration, I am confident I can contribute to the success of your organization.
       Having been in the IT industry for the past 3 years, I have acquired a wealth of experience and knowledge in IT system administration as well as the development cycle of IT solutions. During this time, I have maintained and managed computer systems and networks with a high level of efficiency.
       in additon, I have also developed a wide range of skills in deploying infrastructure using <mark> Ansible & Terraform </mark> whether on premis or on <mark>AWS Cloud</mark>, programing with <mark>Python</mark>, software installation, troubleshooting, and system maintenance.
       similary, I have successfully implemented a number of IT projects, which have improved the efficiency and reliability of the systems. 
 
-      My strong communication skills allow me to effectively convey technical details in a straightforward manner. I am a fast learner with strong attention to detail, able to work solo or as part of a team. I have proficiency in various computer programs and operating systems, including Debian-based, Redhat-based, and Windows Server.
-      I am confident in my abilities and believe I can make a positive impact on your organization. I am eager to apply my skills and knowledge to help drive success.
+      My strong communication skills allow me to effectively convey technical details in a straightforward manner. on the contrary, I am a quick learner with strong attention to detail, able to work solo or as part of a team. I have proficiency in various computer programs and operating systems, including Debian-based, Redhat-based, and Windows Server.
+      I am confident in my abilities and believe I can make a positive impact on your organization. I am looking forward to opportunities to apply my skills and knowledge and drive success.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -79,9 +79,18 @@ content:
         sub_title: Graduate Researcher
         caption: Sep 2021 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Diagnosis of Bearing Faults using variety of Convolutional neural networks (CNN).
         description: | # this will include new lines to allow paragraphs
-          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          Bearing fault diagnosis is the process of detecting and diagnosing faults in bearings, which are critical components of many rotating element machinary.
+          in this research field it is important to accurately diagnose bearing faults in order to prevent further damage and costly repairs. 
+          Traditionally, bearing fault diagnosis has been done using signal processing techniques, such as wavelet analysis and time-frequency analysis. However,
+          these methods are limited in their ability to accurately detect and diagnose faults. Branch CNNs along with many other CNNs architectures offer a more accurate and efficient approach to bearing fault diagnosis. 
+          In this approach, a CNN is trained to identify patterns in the vibration data from a bearing. The CNN can then be used to detect and diagnose faults in the bearing. 
+          This approach has been shown to offer improved accuracy and efficiency compared to traditional signal processing techniques.
+
+          During my graduate research i've successfully reproduced results of published papers and helped my lab mates in building a more robust CNNs to detect bearings faults.
+        - github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis
+        - github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_CNN
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
