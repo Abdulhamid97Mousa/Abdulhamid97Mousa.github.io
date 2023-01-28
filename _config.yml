@@ -75,8 +75,8 @@ content:
     content:
       - layout: left
         title: Beijing Institute Of Technology
+        logo: img\Beijing_Institute_of_Technology_logo.png
         link: https://english.bit.edu.cn/
-        # link_text: boringcompany.com
         sub_title: Graduate Researcher
         caption: Sep 2021 - Present
         quote: >
