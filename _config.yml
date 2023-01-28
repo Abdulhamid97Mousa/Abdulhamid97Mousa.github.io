@@ -1,5 +1,5 @@
 # Site
-repository: github.com/Abdulhamid97Mousa/Abdulhamid97Mousa.github.io
+repository: https://www.github.com/Abdulhamid97Mousa/Abdulhamid97Mousa.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -15,14 +15,14 @@ website: www.abdulhamid97mousa.tk
 darkmode: false
 
 # Social links
-twitter_username: twitter.com/HAMID97MOUSA
-github_username: github.com/Abdulhamid97Mousa
+twitter_username: https://www.twitter.com/HAMID97MOUSA
+github_username: https://www.github.com/Abdulhamid97Mousa
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: www.linkedin.com/in/abdulhamid-m-mousa-833a49204/
+linkedin_username: https://www.linkedin.com/in/abdulhamid-m-mousa-833a49204/
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -55,9 +55,6 @@ I love to explore new technologies and leverage them to solve real-world problem
 Apart from that i also spend my time guide and mentor newbies and wants to join open source project Currently,\
 i'm learning containerization technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark> as well as automation and orchestration with <mark>Ansible</mark>
 
-#  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-#
-#  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
