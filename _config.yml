@@ -48,18 +48,12 @@ content:
     content: | # this will include new lines to allow paragraphs
       I am writing to express my interest in the <mark>System Administration</mark>  position which will help me later in building a career as <mark> DevOps </mark> engineer. With my experience in IT and system administration, I am confident I can contribute to the success of your organization.
       Having been in the IT industry for the past 3 years, I have acquired a wealth of experience and knowledge in IT system administration as well as the development cycle of IT solutions. During this time, I have maintained and managed computer systems and networks with a high level of efficiency.
-      in additon, I have also developed a wide range of skills in deploying infrastructure using <mark> Ansible </mark> and <mark> Terraform </mark> whether on premis or on <mark> AWS Cloud </mark>, programing with <mark> Python </mark>, software installation, troubleshooting, and system maintenance.
+      in additon, I have also developed a wide range of skills in deploying infrastructure using <mark> Ansible </mark> and <mark> Terraform </mark> whether on premis or on <mark> AWS Cloud </mark>, programing with <mark> Python </mark>, scheduled software installation, regular maintenance and troubleshooting.
       similary, I have successfully implemented a number of IT projects, which have improved the efficiency and reliability of the systems. 
 
       My strong communication skills enables me to effectively convey technical details in a straightforward manner. on the contrary, I am a quick learner with strong attention to details, able to work solo or as part of a team. I have proficiency in various computer programs and operating systems,
       including Debian-based, Redhat-based, and Windows Server.
       I am confident in my abilities and believe I can make a positive impact on your organization. I am looking forward to opportunities to apply my skills and knowledge and drive success.
-
-  - title: Licenses & Certificates # Title for the section
-    layout: text # Type of content section (list/text)
-    content:
-      - Red Hat® Certified System Administrator (RHCSA®)
-      - Red Hat® Certified Engineer (RHCE®)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -104,24 +98,18 @@ content:
         caption: 2015 - 2019
         link: https://english.bit.edu.cn/
         sub_title: BSc Mechanical Engineering
-        quote: >
-          Published A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ball-screw Actuator as the second author
         description: | # this will include new lines to allow paragraphs
-          The use of a capsule-type device for soft tissue cutting using a threadless ball-screw actuator is an innovative step forward in the field of medical technology. This device provides an efficient, precise and safe method of cutting soft tissue in (GI) gastrointestinal, such as fat, muscle, or cancerous and connective tissue. The device consists of a capsule with a built-in motor-driven actuator and a cutting blade. The cutting blade is actuated by a ball-screw, which is threadless and self-contained within the capsule. This is a significant advancement over traditional methods of cutting soft tissue, which can be more time consuming and potentially hazardous.
-          The capsule-type device is highly versatile and can be used for a variety of medical procedures, including biopsies, liposuction, and even tissue removal. Its precision and efficiency make it an attractive option for surgeons and medical professionals. Furthermore, the device is relatively easy to use and requires minimal setup and training.
-          Overall, the use of a capsule-type device for soft tissue cutting using a threadless ball-screw actuator is a major advancement in the field of medical technology. It offers a precise, safe and efficient way to cut soft tissue, making it an attractive option for a variety of
+          Activities and societies: developed a Locomotive endoscopy biopsy capsule (LEBC) which's a type of endoscopy procedure used to diagnose and treat gastrointestinal diseases and disorders. 
+          Courses: <mark> Mechanical Design </mark> | <mark> Digital Circuits and systems </mark> | <mark> Computer control system </mark> | <mark> Advanced processing systems </mark> | <mark> Architectural Engineering AutoCAD </mark> | <mark> Computer Aided Design </mark> |
+          <mark> Fundamentals of Manufacturing Engineering </mark> | <mark> Mechanics of Materials </mark> | <mark> Hydrodynamics and hydraulic transmission </mark>. 
 
-#  - title: A Little More About Me
-#    layout: text
-#    content: | # this will include new lines to allow paragraphs
-#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-#      - Rock climbing
-#      - Gaming
-#      - Knitting
-#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-#
-#       Look at this cool image
-#       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+          Thesis project: developed a Locomotive endoscopy biopsy capsule (LEBC). to illustrate the use cases of such medical device, the device is part of a procedure involves the insertion of a capsule-like device into the patient's gastrointestinal tract. The capsule contains a tiny camera and other small instruments that collect tissue samples for laboratory analysis. The LEBC procedure is typically performed in an outpatient setting.
+          First, the patient is given a sedative to help them relax and remain comfortable during the procedure. Next, the capsule is inserted through the patient's mouth and swallowed. 
+          The capsule is propelled through the gastrointestinal tract by the patient's natural peristalsis and takes about 8 to 10 hours to pass through. 
+          Once the capsule reaches the desired area of the gastrointestinal tract, the camera takes pictures of the area and the instruments inside the capsule collect tissue samples. 
+          The camera also transmits the images to a computer where they can be viewed by the doctor. After the procedure, the capsule is passed naturally in the patient's stool. 
+          The advantage of this procedure is that it enables the doctor to diagnose and treat diseases and disorders without the need for invasive surgery. 
+          Additionally, the procedure is safe and has minimal risks. The potential risks include nausea, vomiting, abdominal pain.
 
 # Footer
 footer_show_references: true
