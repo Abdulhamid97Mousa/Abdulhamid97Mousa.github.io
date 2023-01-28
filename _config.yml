@@ -75,7 +75,20 @@ content:
     content:
       - layout: left
         title: Beijing Institute Of Technology
-        logo: img\Beijing_Institute_of_Technology_logo.png
+        image:
+          source: img\Beijing_Institute_of_Technology_logo.png
+          output: generated
+          presets:
+            # Proportional preset
+            users:
+              attr:
+                class: user-portrait
+                itemprop: image
+              width: 350
+            # Scaled and cropped preset
+            half:
+              width: 50
+              height: 50
         link: https://english.bit.edu.cn/
         sub_title: Graduate Researcher
         caption: Sep 2021 - Present
