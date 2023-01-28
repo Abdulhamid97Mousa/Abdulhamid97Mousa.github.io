@@ -89,8 +89,8 @@ content:
           This approach has been shown to offer improved accuracy and efficiency compared to traditional signal processing techniques.
 
           During my graduate research i've successfully reproduced results of published papers and helped my lab mates in building a more robust CNNs to detect bearings faults.
-          1. github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis
-          2. github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_C2N
+          1. [1D-CNN Vibration Signal Bearing Fault Diagnosis](github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis)
+          2. [Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions](github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_C2N)
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
