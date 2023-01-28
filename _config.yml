@@ -61,7 +61,7 @@ content:
   - title: Objectives # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      I am writing to express my interest in the <mark> System Administration </mark> position which will help me later in building a career in <mark> DevOps </mark>. With my experience in IT and system administration, I am confident I can contribute to the success of your organization.
+      I am writing to express my interest in the <mark> System-Administration </mark> position which will help me later in building a career in <mark> DevOps </mark>. With my experience in IT and system administration, I am confident I can contribute to the success of your organization.
       Having been in the IT industry for the past 3 years, I have acquired a wealth of experience and knowledge in IT system administration as well as the development cycle of IT solutions. During this time, I have maintained and managed computer systems and networks with a high level of efficiency.
       in additon, I have also developed a wide range of skills in deploying infrastructure using <mark> Ansible & Terraform </mark> whether on premis or on <mark> AWS Cloud </mark>, programing with <mark> Python </mark>, software installation, troubleshooting, and system maintenance.
       similary, I have successfully implemented a number of IT projects, which have improved the efficiency and reliability of the systems. 
