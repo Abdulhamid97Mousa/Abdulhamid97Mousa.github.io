@@ -45,7 +45,7 @@ linkedin_username: https://www.linkedin.com/in/abdulhamid-m-mousa-833a49204/
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: img/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi there, my name's Hamid and i'm a <mark>DevOps Engineer</mark>, <mark>ML/DL Researcher</mark>, and <mark>Content Creator</mark>
