@@ -48,17 +48,17 @@ linkedin_username: https://www.linkedin.com/in/abdulhamid-m-mousa-833a49204/
 about_title: About Me
 about_profile_image: img/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi there, my name's Hamid and i'm a <mark>DevOps Engineer</mark>, <mark>ML/DL Researcher</mark>, and <mark>Content Creator</mark>. 
-  I'm a passionate learner who's always wiling to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-world problems. 
-  Apart from that i also spend my time guide and mentor newbies and wants to join open source project Currently, i'm learning containerization technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark> as well as automation and orchestration with <mark>Ansible</mark>
+  Hamid is a dedicated and highly organized Systems Administrator who has plenty of experience in managing and maintaining IT systems.
+  He has an extensive knowledge of IT infrastructure and protocols to ensure that systems are running smoothly and reliably. 
+  He is proficient in managing and using successful systems administration strategies. In addition, Hamid is an eager and enthusiastic learner who is willing to explore new technologies and use them to solve problems. 
+  He is also a mentor to newbies and is looking to join open source projects. Currently, he is studying containerization technologies such as Docker and Kubernetes, as well as automation and orchestration with Ansible.
 
 content:
   - title: Objectives # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. \
-      I have learned many skills through this and been I'm very proud of having this in my portfolio. \
-      If you don't have a project as awesome as this I would advise you make one.
+      Hamid is a System Administrator with entry-level work experience, specializing in help desk support, Linux Administration, Network Monand troubleshooting.
+      Adept at performing hardware and software upgrades and providing technical support to customers to resolve complex issues.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
