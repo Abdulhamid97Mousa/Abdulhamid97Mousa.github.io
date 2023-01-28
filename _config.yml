@@ -71,12 +71,10 @@ content:
       I am confident in my abilities and believe I can make a positive impact on your organization. I am looking forward to opportunities to apply my skills and knowledge and drive success.
 
   - title: Licenses & Certificates # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
-      - layout: left
-        title: Red Hat® Certified System Administrator (RHCSA®)
-      - layout: middle
-        title: Red Hat® Certified Engineer (RHCE®)
+      - Red Hat® Certified System Administrator (RHCSA®)
+      - Red Hat® Certified Engineer (RHCE®)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
