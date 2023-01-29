@@ -120,7 +120,7 @@ content:
       ### 4. Learning about Monitoring/Logging> The ability to monitor and analyze system performance and debug issues using various tools such as Grafana, <mark>Prometheus</mark>, and ELK.
       ### 5. Automated tasks using <mark>Bash-Scripting</mark> and <mark>Python</mark>, Automation> The ability to automate tasks such as software builds, deployments, and testing using scripting languages such as Bash and Python.
       ### 6. Learning about Security> The ability to implement security best practices and secure the infrastructure using tools such as security <mark>scanners</mark> and <mark>firewalls</mark>.
-      ### 7. leveraged Git and github to keep tracks of configuration Source Control> Knowledge of source control systems such as <mark>Git</mark>.
+      ### 7. leveraged <mark>Git</mark> and <mark>github</mark> to keep tracks of configuration Source Control> Knowledge of source control systems such as <mark>Git</mark>.
   #
   - title: Licenses & certifications # Title for the section
     layout: text # Type of content section (list/text)
