@@ -19,7 +19,7 @@ twitter_username: HAMID97MOUSA
 github_username: Abdulhamid97Mousa
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: www.abdulhamid97mousa.tk
+facebook_username: www.abdulhamid97mousa.tk
 # flickr_username: jekyll
 # instagram_username: jameswgrant
 linkedin_username: abdulhamid-m-mousa-833a49204
@@ -114,32 +114,32 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      ## Deployed (IaC) Infrastructure as Code> The ability to define, deploy, and manage an entire infrastructure using code (e.g. <mark>Terraform</mark>, <mark>Ansible</mark>).
+      ## - Deployed (IaC) Infrastructure as Code> The ability to define, deploy, and manage an entire infrastructure using code (e.g. <mark>Terraform</mark>, <mark>Ansible</mark>).
 
-      ## leveraged Cloud Computing services> Knowledge of cloud computing platforms such as <mark>Amazon Web Services (AWS)</mark>
+      ## - leveraged Cloud Computing services> Knowledge of cloud computing platforms such as <mark>Amazon Web Services (AWS)</mark>
 
-      ## Learning about Containerization/Orchestration> The ability to deploy, manage, and scale distributed applications using container technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark>.
+      ## - Learning about Containerization/Orchestration> The ability to deploy, manage, and scale distributed applications using container technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark>.
 
-      ## Learning about Monitoring/Logging> The ability to monitor and analyze system performance and debug issues using various tools such as Grafana, <mark>Prometheus</mark>, and ELK.
+      ## - Learning about Monitoring/Logging> The ability to monitor and analyze system performance and debug issues using various tools such as Grafana, <mark>Prometheus</mark>, and ELK.
 
-      ## Automated tasks using <mark>Bash-Scripting</mark> and <mark>Python</mark>, Automation> The ability to automate tasks such as software builds, deployments, and testing using scripting languages such as Bash and Python.
+      ## - Automated tasks using <mark>Bash-Scripting</mark> and <mark>Python</mark>, Automation> The ability to automate tasks such as software builds, deployments, and testing using scripting languages such as Bash and Python.
 
-      ## Learning about Security> The ability to implement security best practices and secure the infrastructure using tools such as security <mark>scanners</mark> and <mark>firewalls</mark>.
+      ## - Learning about Security> The ability to implement security best practices and secure the infrastructure using tools such as security <mark>scanners</mark> and <mark>firewalls</mark>.
 
-      ## leveraged <mark>Git</mark> and <mark>github</mark> to keep tracks of configuration Source Control> Knowledge of source control systems such as <mark>Git</mark>.
+      ## - leveraged <mark>Git</mark> and <mark>github</mark> to keep tracks of configuration Source Control> Knowledge of source control systems such as <mark>Git</mark>.
   #
   - title: Licenses & certifications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      #### - [Red Hat® Certified System Administrator (RHCSA®)](https://www.credly.com/earner/earned/badge/652955ed-af09-446d-88a7-2f317d49a0f2)
+      ## - [Red Hat® Certified System Administrator (RHCSA®)](https://www.credly.com/earner/earned/badge/652955ed-af09-446d-88a7-2f317d49a0f2)
 
-      #### - [Red Hat® Certified Engineer (RHCE®)](https://www.credly.com/earner/earned/badge/22368683-c38a-4881-8c38-41dc1787b023)
+      ## - [Red Hat® Certified Engineer (RHCE®)](https://www.credly.com/earner/earned/badge/22368683-c38a-4881-8c38-41dc1787b023)
 
-      #### - [Cisco Certified Network Associate (CCNA®) ](https://www.credly.com/earner/earned/badge/adf12bd6-68ba-4c40-9fc3-aeba38933ad7)
+      ## - [Cisco Certified Network Associate (CCNA®) ](https://www.credly.com/earner/earned/badge/adf12bd6-68ba-4c40-9fc3-aeba38933ad7)
 
-      #### - [[PCAP-31-03] PCAP Certified Associate in Python Programming](https://www.credly.com/earner/earned/badge/4e5eee86-1f04-4de3-8877-414a6178ebbb)
+      ## - [[PCAP-31-03] PCAP Certified Associate in Python Programming](https://www.credly.com/earner/earned/badge/4e5eee86-1f04-4de3-8877-414a6178ebbb)
 
-      #### -  On-progress  [Certified Kubernetes Administrator](https://training.linuxfoundation.org/training/kubernetes-fundamentals-lfs258-cka-exam-bundle/)
+      ## -  On-progress  [Certified Kubernetes Administrator](https://training.linuxfoundation.org/training/kubernetes-fundamentals-lfs258-cka-exam-bundle/)
 
 # Footer
 footer_show_references: true
