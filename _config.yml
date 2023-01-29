@@ -111,6 +111,17 @@ content:
           The advantage of this procedure is that it enables the doctor to diagnose and treat diseases and disorders without the need for invasive surgery. 
           Additionally, the procedure is safe and has minimal risks. The potential risks include nausea, vomiting, abdominal pain.
 
+  - title: Licenses & certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Red Hat® Certified System Administrator (RHCSA®)
+        caption: 2015 - 2019
+        additional_links:
+          - title: Red Hat® Certified System Administrator (RHCSA®)
+            icon: img/Red Hat® Certified System Administrator (RHCSA®).jpg
+            link: https://www.credly.com/earner/earned/badge/652955ed-af09-446d-88a7-2f317d49a0f2
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
