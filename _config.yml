@@ -113,15 +113,12 @@ content:
           Additionally, the procedure is safe and has minimal risks. The potential risks include nausea, vomiting, abdominal pain.
 
   - title: Licenses & certifications # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Red Hat® Certified System Administrator (RHCSA®)
-        caption: 2015 - 2019
-        additional_links:
-          - title: Red Hat® Certified System Administrator (RHCSA®)
-            icon: img/RHCSA.jpg
-            link: https://www.credly.com/earner/earned/badge/652955ed-af09-446d-88a7-2f317d49a0f2
+    layout: text # Type of content section (list/text)
+    content: |
+      1. [Red Hat® Certified System Administrator (RHCSA®)](https://www.credly.com/earner/earned/badge/652955ed-af09-446d-88a7-2f317d49a0f2)
+      2. [Red Hat® Certified Engineer (RHCE®)](https://www.credly.com/earner/earned/badge/22368683-c38a-4881-8c38-41dc1787b023)
+      3. [Cisco Certified Network Associate (CCNA®) ](https://www.credly.com/earner/earned/badge/adf12bd6-68ba-4c40-9fc3-aeba38933ad7)
+      4. [[PCAP-31-03] PCAP – Certified Associate in Python Programming](https://www.credly.com/earner/earned/badge/4e5eee86-1f04-4de3-8877-414a6178ebbb)
 
 # Footer
 footer_show_references: true
