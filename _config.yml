@@ -35,8 +35,8 @@ about_profile_image: img/profile.jpg
 
 about_content: | # this will include new lines to allow paragraphs
   Hamid is a <mark>System Administration</mark>. He has a deep understanding of IT infrastructure and protocols, 
-  and is proficient in both deploying and managing <mark> IT infrastructure </mark>. Hamid is a quick learner, with a passion for exploring new technologies and finding ways to utilize them to solve real-world problems. He has already achieved a great deal of success in his current role. similarly, 
-  studying containerization technologies such as <mark> Docker </mark> and <mark> Kubernetes </mark>. he has also developed an interest in automation and deployment tools like <mark>Ansible</mark> and <mark>Terraform</mark>. 
+  and is proficient in both deploying and managing <mark> IT infrastructure </mark>. Hamid is a quick learner, with a passion for exploring new technologies and finding ways to utilize them to solve real-world problems. currently, 
+  studying containerization technologies such as <mark> Docker </mark> and <mark> Kubernetes </mark>. he developed an interest in automation and deployment tools like <mark>Ansible</mark> and <mark>Terraform</mark>. 
 
   Hamid is an excellent mentor to newbies; his dedication and highly organized nature make him an ideal person to share knowledge and help others get up to speed with the latest technologies. 
   in addition, He is a reliable and hardworking individual, and his knowledge and willingness to learn makes him an invaluable team member. The modern workplace is ever-evolving, 
@@ -46,14 +46,14 @@ content:
   - title: Objectives # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      I am writing to express my interest in the <mark>System Administration</mark>  position which will help me later in building a career as <mark> DevOps </mark> engineer. With my experience in IT and system administration, I am confident I can contribute to the success of your organization.
+      I am writing to express my interest in the <mark>System Administration</mark>  position which will help me later in building a career as <mark> DevOps engineer</mark>. With my experience in IT and system administration, I am confident I can contribute to the success of your organization.
       Having been in the IT industry for the past 3 years, I have acquired a wealth of experience and knowledge in IT system administration as well as the development cycle of IT solutions. During this time, I have maintained and managed computer systems and networks with a high level of efficiency.
       in additon, I have also developed a wide range of skills in deploying infrastructure using <mark> Ansible </mark> and <mark> Terraform </mark> whether on premis or on <mark> AWS Cloud </mark>, programing with <mark> Python </mark>, scheduled software installation, regular maintenance and troubleshooting.
       similary, I have successfully implemented a number of IT projects, which have improved the efficiency and reliability of the systems. 
 
-      My strong communication skills enables me to effectively convey technical details in a straightforward manner. on the contrary, I am a quick learner with strong attention to details, able to work solo or as part of a team. I have proficiency in various computer programs and operating systems,
-      including Debian-based, Redhat-based, and Windows Server.
-      I am confident in my abilities and believe I can make a positive impact on your organization. I am looking forward to opportunities to apply my skills and knowledge and drive success.
+      My communication skills, combined with my detail-oriented nature, enable me to effectively convey technical details in a straightforward manner. Additionally,
+      I am a quick learner, able to work autonomously or collaboratively, and am proficient in a variety of computer programs and operating systems, such as Debian-based, Redhat-based, and Windows Server.
+      I am confident of my capabilities and am eager to leverage them to contribute to your organization's success.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -99,11 +99,11 @@ content:
         link: https://english.bit.edu.cn/
         sub_title: BSc Mechanical Engineering
         description: | # this will include new lines to allow paragraphs
-          Activities and societies: developed a Locomotive endoscopy biopsy capsule (LEBC) which's a type of endoscopy procedure used to diagnose and treat gastrointestinal diseases and disorders. 
+          <mark> Activities and societies: </mark> developed a Locomotive endoscopy biopsy capsule (LEBC) which's a type of endoscopy procedure used to diagnose and treat gastrointestinal diseases and disorders. 
           Courses: <mark> Mechanical Design </mark> | <mark> Digital Circuits and systems </mark> | <mark> Computer control system </mark> | <mark> Advanced processing systems </mark> | <mark> Architectural Engineering AutoCAD </mark> | <mark> Computer Aided Design </mark> |
           <mark> Fundamentals of Manufacturing Engineering </mark> | <mark> Mechanics of Materials </mark> | <mark> Hydrodynamics and hydraulic transmission </mark>. 
 
-          Thesis project: developed a Locomotive endoscopy biopsy capsule (LEBC). to illustrate the use cases of such medical device, the device is part of a procedure involves the insertion of a capsule-like device into the patient's gastrointestinal tract. The capsule contains a tiny camera and other small instruments that collect tissue samples for laboratory analysis. The LEBC procedure is typically performed in an outpatient setting.
+          <mark> Thesis project: </mark> developed a Locomotive endoscopy biopsy capsule (LEBC). to illustrate the use cases of such medical device, the device is part of a procedure involves the insertion of a capsule-like device into the patient's gastrointestinal tract. The capsule contains a tiny camera and other small instruments that collect tissue samples for laboratory analysis. The LEBC procedure is typically performed in an outpatient setting.
           First, the patient is given a sedative to help them relax and remain comfortable during the procedure. Next, the capsule is inserted through the patient's mouth and swallowed. 
           The capsule is propelled through the gastrointestinal tract by the patient's natural peristalsis and takes about 8 to 10 hours to pass through. 
           Once the capsule reaches the desired area of the gastrointestinal tract, the camera takes pictures of the area and the instruments inside the capsule collect tissue samples. 
