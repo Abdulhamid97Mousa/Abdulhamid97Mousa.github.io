@@ -85,9 +85,19 @@ content:
         quote: >
           Published A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ball-screw Actuator as 3rd Author.
         description: | # this will include new lines to allow paragraphs
-          <mark>Published A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ball-screw Actuator as 3rd Author</mark>. in order to show-case my work i need to explain somethings about the project, The use of a capsule-type device for soft tissue cutting using a threadless ball-screw actuator is an innovative step forward in the field of medical technology. This device provides an efficient, precise and safe method of cutting soft tissue in (GI) gastrointestinal, such as fat, muscle, or cancerous and connective tissue. The device consists of a capsule with a built-in motor-driven actuator and a cutting blade. The cutting blade is actuated by a ball-screw, which is threadless and self-contained within the capsule. This is a significant advancement over traditional methods of cutting soft tissue, which can be more time consuming and potentially hazardous.
-          The capsule-type device is highly versatile and can be used for a variety of medical procedures, including biopsies, liposuction, and even tissue removal. Its precision and efficiency make it an attractive option for surgeons and medical professionals. Furthermore, the device is relatively easy to use and requires minimal setup and training.
-          Overall, the use of a capsule-type device for soft tissue cutting using a threadless ball-screw actuator is a major advancement in the field of medical technology. It offers a precise, safe and efficient way to cut soft tissue, making it an attractive option for a variety of
+          <mark>Published A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ball-screw Actuator as 3rd Author</mark>. in order to show-case my work i need to explain somethings about the project, 
+          A Capsule-type device for soft tissue cutting using a threadless ballscrew actuator is a device with the potential to revolutionize the way surgeons perform soft tissue cutting during surgery. 
+          This device is a compact and lightweight motorized tool, which utilizes a ballscrew actuator to provide precise control of the cutting blade. 
+          The device is designed to be inserted into the patient’s body and used to cut through soft tissue with minimal invasiveness and less trauma to the patient.
+
+          The device consists of a precision-machined outer casing which houses the ballscrew, a motor, and a cutting blade. 
+          The ballscrew is responsible for converting the rotational motion of the motor into linear motion, enabling the cutting blade to move in a straight line. 
+          This makes it possible to achieve a more precise cut than with a manual blade. The motor is also designed to be adjustable, 
+          allowing the user to adjust the speed of the cutting process depending on the type of tissue being cut.
+
+          The device is highly beneficial for surgeons as it can reduce operative time, reduce the amount of tissue trauma, and improve the accuracy of the cutting process. 
+          It is also designed with safety in mind, as the ballscrew actuator makes it difficult
+
           ##### 1. [A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ballscrew Actuator](https://ieeexplore.ieee.org/document/8860958)
 
   - title: Education # Title for the section
