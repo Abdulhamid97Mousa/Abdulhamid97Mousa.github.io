@@ -73,8 +73,8 @@ content:
           This approach has been shown to offer improved accuracy and efficiency compared to traditional signal processing techniques.
 
           During my graduate research i've successfully reproduced results of published papers and helped my lab mates in building a more robust CNNs to detect bearings faults.
-          ## 1. [1D-CNN Vibration Signal Bearing Fault Diagnosis](github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis)
-          ## 2. [Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions](github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_C2N)
+          1. [1D-CNN Vibration Signal Bearing Fault Diagnosis](github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis)
+          2. [Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions](github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_C2N)
 
       - layout: left
         title: Beihang University
@@ -88,7 +88,7 @@ content:
           The use of a capsule-type device for soft tissue cutting using a threadless ball-screw actuator is an innovative step forward in the field of medical technology. This device provides an efficient, precise and safe method of cutting soft tissue in (GI) gastrointestinal, such as fat, muscle, or cancerous and connective tissue. The device consists of a capsule with a built-in motor-driven actuator and a cutting blade. The cutting blade is actuated by a ball-screw, which is threadless and self-contained within the capsule. This is a significant advancement over traditional methods of cutting soft tissue, which can be more time consuming and potentially hazardous.
           The capsule-type device is highly versatile and can be used for a variety of medical procedures, including biopsies, liposuction, and even tissue removal. Its precision and efficiency make it an attractive option for surgeons and medical professionals. Furthermore, the device is relatively easy to use and requires minimal setup and training.
           Overall, the use of a capsule-type device for soft tissue cutting using a threadless ball-screw actuator is a major advancement in the field of medical technology. It offers a precise, safe and efficient way to cut soft tissue, making it an attractive option for a variety of
-          ## 1. [A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ballscrew Actuator](https://ieeexplore.ieee.org/document/8860958)
+          1. [A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ballscrew Actuator](https://ieeexplore.ieee.org/document/8860958)
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
