@@ -36,7 +36,7 @@ about_profile_image: img/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hamid is a <mark>System Administration</mark>. He has a deep understanding of IT infrastructure and protocols, 
   and is proficient in both deploying and managing <mark> IT infrastructure </mark>. Hamid is a quick learner, with a passion for exploring new technologies and finding ways to utilize them to solve real-world problems. currently, 
-  studying containerization technologies such as <mark> Docker </mark> and <mark> Kubernetes </mark>. he developed an interest in automation and deployment tools like <mark>Ansible</mark> and <mark>Terraform</mark>. 
+  studying containerization technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark>. he developed an interest in automation and deployment tools like <mark>Ansible</mark> and <mark>Terraform</mark>. 
 
   Hamid is an excellent mentor to newbies; his dedication and highly organized nature make him an ideal person to share knowledge and help others get up to speed with the latest technologies. 
   in addition, He is a reliable and hardworking individual, and his knowledge and willingness to learn makes him an invaluable team member. The modern workplace is ever-evolving, 
@@ -48,7 +48,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       I am writing to express my interest in the <mark>System Administration</mark>  position which will help me later in building a career as <mark> DevOps engineer</mark>. With my experience in IT and system administration, I am confident I can contribute to the success of your organization.
       Having been in the IT industry for the past 3 years, I have acquired a wealth of experience and knowledge in IT system administration as well as the development cycle of IT solutions. During this time, I have maintained and managed computer systems and networks with a high level of efficiency.
-      in additon, I have also developed a wide range of skills in deploying infrastructure using <mark> Ansible </mark> and <mark> Terraform </mark> whether on premis or on <mark> AWS Cloud </mark>, programing with <mark> Python </mark>, scheduled software installation, regular maintenance and troubleshooting.
+      in additon, I have also developed a wide range of skills in deploying infrastructure using <mark>Ansible</mark> and <mark>Terraform</mark> whether on premis or on <mark>AWS Cloud</mark>, programing with <mark>Python</mark>, scheduled software installation and backups, regular maintenance and troubleshooting.
       similary, I have successfully implemented a number of IT projects, which have improved the efficiency and reliability of the systems. 
 
       My communication skills, combined with my detail-oriented nature, enable me to effectively convey technical details in a straightforward manner. Additionally,
@@ -100,7 +100,7 @@ content:
         sub_title: BSc Mechanical Engineering
         description: | # this will include new lines to allow paragraphs
           <mark>Activities and societies:</mark> developed a Locomotive endoscopy biopsy capsule (LEBC) which's a type of endoscopy procedure used to diagnose and treat gastrointestinal diseases and disorders. 
-          Courses: <mark>Mechanical Design</mark>  <mark>Digital Circuits and systems</mark>  <mark>Computer control system</mark>  <mark>Advanced processing systems</mark>  <mark>Architectural Engineering AutoCAD</mark>  <mark>Computer Aided Design</mark> |
+          Courses: <mark>Mechanical Design</mark>  <mark>Digital Circuits and systems</mark>  <mark>Computer control system</mark>  <mark>Advanced processing systems</mark>  <mark>Architectural Engineering AutoCAD</mark>  <mark>Computer Aided Design</mark> 
           <mark>Fundamentals of Manufacturing Engineering</mark>  <mark>Mechanics of Materials</mark>  <mark>Hydrodynamics and hydraulic transmission</mark>. 
 
           <mark>Thesis project:</mark> developed a Locomotive endoscopy biopsy capsule (LEBC). to illustrate the use cases of such medical device, the device is part of a procedure involves the insertion of a capsule-like device into the patient's gastrointestinal tract. The capsule contains a tiny camera and other small instruments that collect tissue samples for laboratory analysis. The LEBC procedure is typically performed in an outpatient setting.
@@ -119,7 +119,7 @@ content:
         caption: 2015 - 2019
         additional_links:
           - title: Red Hat® Certified System Administrator (RHCSA®)
-            icon: img/Red Hat® Certified System Administrator (RHCSA®).jpg
+            icon: img/RHCSA.jpg
             link: https://www.credly.com/earner/earned/badge/652955ed-af09-446d-88a7-2f317d49a0f2
 
 # Footer
