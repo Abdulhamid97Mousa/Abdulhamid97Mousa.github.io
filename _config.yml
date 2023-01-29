@@ -114,19 +114,19 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      #### - Deployed (IaC) Infrastructure as Code> The ability to define, deploy, and manage an entire infrastructure using code (e.g. <mark>Terraform</mark>, <mark>Ansible</mark>).
+      #### - Deployed (IaC) Infrastructure as Code: The ability to define, deploy, and manage an entire infrastructure using code (e.g. <mark>Terraform</mark>, <mark>Ansible</mark>).
 
-      #### - leveraged Cloud Computing services> Knowledge of cloud computing platforms such as <mark>Amazon Web Services (AWS)</mark>
+      #### - leveraged Cloud Computing services: Knowledge of cloud computing platforms such as <mark>Amazon Web Services (AWS)</mark>
 
-      #### - Learning about Containerization/Orchestration> The ability to deploy, manage, and scale distributed applications using container technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark>.
+      #### - Learning about Containerization/Orchestration: The ability to deploy, manage, and scale distributed applications using container technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark>.
 
-      #### - Learning about Monitoring/Logging> The ability to monitor and analyze system performance and debug issues using various tools such as Grafana, <mark>Prometheus</mark>, and ELK.
+      #### - Learning about Monitoring/Logging: The ability to monitor and analyze system performance and debug issues using various tools such as Grafana, <mark>Prometheus</mark>, and ELK.
 
-      #### - Automated tasks using <mark>Bash-Scripting</mark> and <mark>Python</mark>, Automation> The ability to automate tasks such as software builds, deployments, and testing using scripting languages such as Bash and Python.
+      #### - Automated tasks using <mark>Bash-Scripting</mark> and <mark>Python</mark>, Automation: The ability to automate tasks such as software builds, deployments, and testing using scripting languages such as Bash and Python.
 
-      #### - Learning about Security> The ability to implement security best practices and secure the infrastructure using tools such as security <mark>scanners</mark> and <mark>firewalls</mark>.
+      #### - Learning about Security: The ability to implement security best practices and secure the infrastructure using tools such as security <mark>scanners</mark> and <mark>firewalls</mark>.
 
-      #### - leveraged <mark>Git</mark> and <mark>github</mark> to keep tracks of configuration Source Control> Knowledge of source control systems such as <mark>Git</mark>.
+      #### - leveraged <mark>Git</mark> and <mark>github</mark> to keep tracks of configuration, Source Control: Knowledge of source control systems such as <mark>Git</mark>.
   #
   - title: Licenses & certifications # Title for the section
     layout: text # Type of content section (list/text)
