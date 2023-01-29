@@ -73,8 +73,8 @@ content:
           This approach has been shown to offer improved accuracy and efficiency compared to traditional signal processing techniques.
 
           During my graduate research i've successfully reproduced results of published papers and helped my lab mates in building a more robust CNNs to detect bearings faults.
-          ### 1. [1D-CNN Vibration Signal Bearing Fault Diagnosis](github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis)
-          ### 2. [Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions](github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_C2N)
+          #### 1. [1D-CNN Vibration Signal Bearing Fault Diagnosis](github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis)
+          #### 2. [Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions](github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_C2N)
 
       - layout: left
         title: Beihang University
@@ -88,7 +88,7 @@ content:
           <mark>Published A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ball-screw Actuator as 3rd Author</mark>. in order to show-case my work i need to explain somethings about the project, The use of a capsule-type device for soft tissue cutting using a threadless ball-screw actuator is an innovative step forward in the field of medical technology. This device provides an efficient, precise and safe method of cutting soft tissue in (GI) gastrointestinal, such as fat, muscle, or cancerous and connective tissue. The device consists of a capsule with a built-in motor-driven actuator and a cutting blade. The cutting blade is actuated by a ball-screw, which is threadless and self-contained within the capsule. This is a significant advancement over traditional methods of cutting soft tissue, which can be more time consuming and potentially hazardous.
           The capsule-type device is highly versatile and can be used for a variety of medical procedures, including biopsies, liposuction, and even tissue removal. Its precision and efficiency make it an attractive option for surgeons and medical professionals. Furthermore, the device is relatively easy to use and requires minimal setup and training.
           Overall, the use of a capsule-type device for soft tissue cutting using a threadless ball-screw actuator is a major advancement in the field of medical technology. It offers a precise, safe and efficient way to cut soft tissue, making it an attractive option for a variety of
-          ### 1. [A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ballscrew Actuator](https://ieeexplore.ieee.org/document/8860958)
+          #### 1. [A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ballscrew Actuator](https://ieeexplore.ieee.org/document/8860958)
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -114,32 +114,32 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      ## - Deployed (IaC) Infrastructure as Code> The ability to define, deploy, and manage an entire infrastructure using code (e.g. <mark>Terraform</mark>, <mark>Ansible</mark>).
+      #### - Deployed (IaC) Infrastructure as Code> The ability to define, deploy, and manage an entire infrastructure using code (e.g. <mark>Terraform</mark>, <mark>Ansible</mark>).
 
-      ## - leveraged Cloud Computing services> Knowledge of cloud computing platforms such as <mark>Amazon Web Services (AWS)</mark>
+      #### - leveraged Cloud Computing services> Knowledge of cloud computing platforms such as <mark>Amazon Web Services (AWS)</mark>
 
-      ## - Learning about Containerization/Orchestration> The ability to deploy, manage, and scale distributed applications using container technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark>.
+      #### - Learning about Containerization/Orchestration> The ability to deploy, manage, and scale distributed applications using container technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark>.
 
-      ## - Learning about Monitoring/Logging> The ability to monitor and analyze system performance and debug issues using various tools such as Grafana, <mark>Prometheus</mark>, and ELK.
+      #### - Learning about Monitoring/Logging> The ability to monitor and analyze system performance and debug issues using various tools such as Grafana, <mark>Prometheus</mark>, and ELK.
 
-      ## - Automated tasks using <mark>Bash-Scripting</mark> and <mark>Python</mark>, Automation> The ability to automate tasks such as software builds, deployments, and testing using scripting languages such as Bash and Python.
+      #### - Automated tasks using <mark>Bash-Scripting</mark> and <mark>Python</mark>, Automation> The ability to automate tasks such as software builds, deployments, and testing using scripting languages such as Bash and Python.
 
-      ## - Learning about Security> The ability to implement security best practices and secure the infrastructure using tools such as security <mark>scanners</mark> and <mark>firewalls</mark>.
+      #### - Learning about Security> The ability to implement security best practices and secure the infrastructure using tools such as security <mark>scanners</mark> and <mark>firewalls</mark>.
 
-      ## - leveraged <mark>Git</mark> and <mark>github</mark> to keep tracks of configuration Source Control> Knowledge of source control systems such as <mark>Git</mark>.
+      #### - leveraged <mark>Git</mark> and <mark>github</mark> to keep tracks of configuration Source Control> Knowledge of source control systems such as <mark>Git</mark>.
   #
   - title: Licenses & certifications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      ## - [Red Hat® Certified System Administrator (RHCSA®)](https://www.credly.com/earner/earned/badge/652955ed-af09-446d-88a7-2f317d49a0f2)
+      #### - [Red Hat® Certified System Administrator (RHCSA®)](https://www.credly.com/earner/earned/badge/652955ed-af09-446d-88a7-2f317d49a0f2)
 
-      ## - [Red Hat® Certified Engineer (RHCE®)](https://www.credly.com/earner/earned/badge/22368683-c38a-4881-8c38-41dc1787b023)
+      #### - [Red Hat® Certified Engineer (RHCE®)](https://www.credly.com/earner/earned/badge/22368683-c38a-4881-8c38-41dc1787b023)
 
-      ## - [Cisco Certified Network Associate (CCNA®) ](https://www.credly.com/earner/earned/badge/adf12bd6-68ba-4c40-9fc3-aeba38933ad7)
+      #### - [Cisco Certified Network Associate (CCNA®) ](https://www.credly.com/earner/earned/badge/adf12bd6-68ba-4c40-9fc3-aeba38933ad7)
 
-      ## - [[PCAP-31-03] PCAP Certified Associate in Python Programming](https://www.credly.com/earner/earned/badge/4e5eee86-1f04-4de3-8877-414a6178ebbb)
+      #### - [[PCAP-31-03] PCAP Certified Associate in Python Programming](https://www.credly.com/earner/earned/badge/4e5eee86-1f04-4de3-8877-414a6178ebbb)
 
-      ## -  On-progress  [Certified Kubernetes Administrator](https://training.linuxfoundation.org/training/kubernetes-fundamentals-lfs258-cka-exam-bundle/)
+      #### -  On-progress  [Certified Kubernetes Administrator](https://training.linuxfoundation.org/training/kubernetes-fundamentals-lfs258-cka-exam-bundle/)
 
 # Footer
 footer_show_references: true
