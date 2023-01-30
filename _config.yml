@@ -58,23 +58,25 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Beijing Institute Of Technology
-        link: https://english.bit.edu.cn/
+        title: Deploy and Manage infrastructure on Amazon Web Services (AWS)
         sub_title: Graduate Researcher
         caption: Sep 2021 - Present
         quote: >
-          Solving one of the most pressing problems in the field Bearing Faults Diagnosis using variety of Convolutional neural networks (CNN).
+          Objective: To deploy an application on a secure and cost-effective AWS cloud platform.
         description: | # this will include new lines to allow paragraphs
-          Bearing fault diagnosis is the process of detecting and diagnosing faults in bearings, which are critical components of many rotating element machinary.
-          in this research field, it is important to accurately diagnose bearing faults in order to prevent further damage and costly repairs. 
-          Traditionally, bearing fault diagnosis has been done using <mark>signal processing techniques</mark>, such as <mark>wavelet analysis</mark> and <mark>time-frequency analysis</mark>. However,
-          these methods are limited in their ability to accurately detect and diagnose faults. <mark>Branch CNNs</mark> along with many other <mark>CNNs architectures</mark> offer a more accurate and efficient approach to bearing fault diagnosis. 
-          In this approach, a CNN model is trained to identify patterns in the vibration data from a bearing. The CNN model can then be used to detect and diagnose faults in the bearing. 
-          This approach has been shown to offer improved accuracy and efficiency compared to traditional signal processing techniques.
+          The goal of this project was to familirize ourselves with cloud offerings and gain cloud fluency to create  automated, secure,
+          and cost-effective web applications that will be hosted on AWS cloud or other hosting platforms. more specifically, 
+          we luanched a webserver to host my online identity and also deployed a wordpress-based website which is a website builder to create blogs and to share information about tech with others.
+          To accomplish this, we utilized a variety of AWS services and tools.
 
-          During my graduate research i've successfully reproduced results of published papers and helped my lab mates in building a more robust CNNs to detect bearings faults.
-          * [1D-CNN Vibration Signal Bearing Fault Diagnosis](github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis)
-          * [Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions](github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_C2N)
+          First, we had to gain a basic understanding of the IT services available on AWS and their use cases. We researched AWS services such as EC2, S3, RDS,
+          and IAM and their associated use cases, billing and pricing models, and security concepts. 
+          We then used essential tools such as the command-line environment and shell scripts to configure the infrastructure. We created and configured file systems,
+          created partitions and logical volumes, and configured user accounts and groups.
+          We also deployed, configured, and maintained systems, including software installation, updates, 
+          and core services. We also set up security measures such as firewalls and ACL configuration, 
+          and managed containers using container management tools. We used AWS services such as Amazon Machine Images (AMIs) to deploy EC2 instances and configured Amazon Load Balancers.
+          We also configured auto scaling groups to enable horizontal scaling.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
