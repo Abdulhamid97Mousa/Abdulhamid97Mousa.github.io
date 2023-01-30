@@ -94,9 +94,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout:
-        title: Beijing Institute Of Technology
-        link: |
-          ![profile_picture](img/profile.jpg)
+        title: Beijing Institute Of Technology ![alt text](img/profile.jpg)
+        link: https://english.bit.edu.cn/
         sub_title: Graduate Researcher
         caption: <img src="img/profile.jpg" </img>
         quote: >
