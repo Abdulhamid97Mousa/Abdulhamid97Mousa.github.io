@@ -1,0 +1,178 @@
+# Site
+repository: www.github.com/Abdulhamid97Mousa/Abdulhamid97Mousa.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Abdulhamid Mousa
+title: DevOps Engineer & ML/DL Researcher
+email: abdulhamid97mousa@gmail.com
+website: www.abdulhamid97mousa.tk
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: HAMID97MOUSA
+github_username: Abdulhamid97Mousa
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+facebook_username: abdulhameed.mohamed.165
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: abdulhamid-m-mousa-833a49204
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# About Section
+about_title: About Me
+about_profile_image: img/profile.jpg
+
+about_content: | # this will include new lines to allow paragraphs
+  Hamid is a <mark>System Administration</mark> and Aspiring to be <mark>DevOps Engineer</mark> in the future. He has a deep understanding of IT infrastructure and networking protocols, 
+  and is proficient in both deploying and managing <mark> IT infrastructure </mark>. Hamid is a quick learner, with a passion for exploring new technologies to utilize them to solve real-world problems and creating IT solutions. 
+  currently, studying containerization & cloud native technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark>. he has developed an interest in automation and deployment tools like <mark>Ansible</mark> and <mark>Terraform</mark>. 
+  his dedication and highly organized nature makes him an ideal person to share knowledge and help others get up to speed with the latest technologies. 
+  in addition, He is a reliable and hardworking individual, and his knowledge and willingness to learn makes him an invaluable team member. The modern workplace is ever-evolving, 
+  and Hamid is the perfect example of the kind of engineer who can adapt and keep up to date with ever-changing technologies and tools.
+content:
+  - title: Objectives # Title for the section
+    layout: text # Type of content section (list/text)
+    content: | # this will include new lines to allow paragraphs
+      I am writing to express my interest in the <mark>System Administration</mark>  role which will help me later in building a career as <mark> DevOps engineer</mark>. With my experience in IT and system administration, I am confident in my skills and looking for ways to contribute to the success of your organization.
+      Having been in the IT industry for the past 3 years, I have acquired experience and knowledge in IT system administration and the development cycle of IT solutions. During this time, I have maintained and managed computer systems and networks with a high level of efficiency.
+      in additon, I have also developed a wide range of skills in deploying infrastructure using <mark>Ansible</mark> and <mark>Terraform</mark> whether on premis or on <mark>AWS Cloud</mark>, programing with <mark>Python</mark>, scheduled software installation and backups, regular maintenance and troubleshooting.
+      similary, I have successfully implemented a number of IT projects, which have improved the efficiency and reliability of the systems. 
+      My communication skills, combined with my detail-oriented nature, enables me to effectively convey technical details in a straightforward manner. Additionally,
+      I am a quick learner, able to work autonomously or collaboratively, and am proficient in a variety of computer programs and operating systems, such as <mark>Debian-based (Ubuntu), Redhat-based (Rhel/CentOS), and Windows Server</mark>.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Automate the Process of Deploying Infrastructure on Amazon Web Services (AWS) Using Ansible Automation.
+        quote: >
+          Objective: Automate the process of deploying an infrastructure on Amazon Web Services (AWS) using Ansible automation..
+        description: | # this will include new lines to allow paragraphs
+          * Utilized Ansible to automate the process of deploying infrastructure using <mark>IaC</mark> Infrastructure as code best practices, and by doing so the time and effort required to deploy the infrastructure was reduced,
+          allowing for faster and more reliable deployment. The project included the following steps:
+          * Setting up a <mark>Controller node</mark> to manage other <mark>Managed nodes</mark> and also managed to pass <mark>AWS account credentials inside ansible playbooks</mark>.
+          * Creating an Ansible playbook to configure the AWS environment.
+          * Writing Ansible roles for the different components of the infrastructure.
+          * Writing Ansible tasks to deploy the necessary services such as <mark>EC2 LB SG</mark> on AWS.
+          * <mark>Configuring the security group settings</mark>.
+          * <mark>Testing and troubleshooting the deployment process</mark>.
+          * Monitoring the deployment progress.
+          * The project was completed successfully. The Ansible playbook was able to configure the AWS environment, deploy the necessary services, and configure the security group settings.
+          The deployment process was monitored and tested, ensuring that everything was working as expected. Overall, this project was successful in automating the process of deploying an infrastructure on AWS using Ansible automation. 
+          This allowed for <mark>faster and more reliable deployment, saving time and effort</mark>.
+      - layout: left
+        title: Deployed and Managed infrastructure on Amazon Web Services (AWS)
+        quote: >
+          Objective: Deploy an application on a secure, easy to manage, and cost-effective AWS cloud platform.
+        description: | # this will include new lines to allow paragraphs
+          * The goal of this project was to familirize ourselves with cloud offerings and gain cloud fluency to create  automated, secure,
+          and cost-effective web applications that will be hosted on AWS cloud or other hosting platforms. more specifically, 
+          we luanched a webserver to host my nline identity and also deployed a wordpress-based website which is a website builder to create blogs and to share information about tech with others.
+          To accomplish this, we utilized a variety of AWS services and tools. 
+          * Gained a basic understanding of the IT services available on AWS and their use cases. We researched AWS services such as <mark>EC2, S3, RDS, Route53
+          and IAM</mark> while setting up a <mark>budget and billing alarms</mark> to be notified and act accordingly. 
+          * Utilized essential tools for handling files, directories, and services. Among these services such as <mark> SSH, DHCP, DNS, HTTP, FTP, NFS, NTP, Cron, and Loggings </mark>. 
+          * Familiarized myself with command-line environment and shell scripts to configure the infrastructure.
+          * Created and configured file systems, and followed best practices and conventions according to AWS Documentations. created partitions and logical volumes, and configured user accounts and groups.
+          * Deployed, configured, and maintained systems, including regular software updates and installation, and regular backing up data to increase reliabelity and fault tolerance. 
+          * Setting up security measures such as <mark>Firewalls, IP Tables, and forward and backword proxy configurations</mark>.
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Beijing Institute Of Technology
+        link: https://english.bit.edu.cn/
+        sub_title: Graduate Researcher
+        caption: Sep 2021 - Present
+        quote: >
+          Solving one of the most pressing problems in the field Bearing Faults Diagnosis using variety of Convolutional neural networks (CNN).
+        description: | # this will include new lines to allow paragraphs
+          <mark>Bearing Fault Diagnosis</mark> is the process of detecting and diagnosing faults in bearings, which are critical components of many rotating element machinary.
+          in this research field, it is important to accurately diagnose bearing faults in order to prevent further damage and costly repairs. 
+          Traditionally, bearing fault diagnosis has been done using <mark>signal processing techniques</mark>, such as <mark>wavelet analysis</mark> and <mark>time-frequency analysis</mark>. However,
+          these methods are limited in their ability to accurately detect and diagnose faults. <mark>Branch CNNs</mark> along with many other <mark>CNNs architectures</mark> offer a more accurate and efficient approach to bearing fault diagnosis. 
+          In this approach, a CNN model is trained to identify patterns in the vibration data from a bearing. The CNN model can then be used to detect and diagnose faults in the bearing. 
+          This approach has been shown to offer improved accuracy and efficiency compared to traditional signal processing techniques.
+          During my graduate research i've successfully reproduced results of published papers and helped my lab mates in building a more robust CNNs to detect bearings faults.
+          * [1D-CNN Vibration Signal Bearing Fault Diagnosis](github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis)
+          * [Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions](github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_C2N)
+      - layout: left
+        title: Beihang University
+        link: https://ev.buaa.edu.cn/
+        # link_text: boringcompany.com
+        sub_title: BSc Mechanical Engineering and Automation
+        caption: 2015 - 2019
+        quote: >
+          Published A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ball-screw Actuator as 3rd Author.
+        description: | # this will include new lines to allow paragraphs
+          <mark>Published A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ball-screw Actuator as 3rd Author</mark>. in order to show-case my work i need to explain somethings about the project, 
+          A Capsule-type device for soft tissue cutting using a threadless ballscrew actuator is a device with the potential to revolutionize the way surgeons perform soft tissue cutting during surgery. 
+          This device is a compact and lightweight motorized tool, which utilizes a ballscrew actuator to provide precise control of the cutting blade. 
+          The device is designed to be inserted into the patient’s body and used to cut through soft tissue with minimal invasiveness and less trauma to the patient.
+          The device consists of a precision-machined outer casing which houses the ballscrew, a motor, and a cutting blade. 
+          The ballscrew is responsible for converting the rotational motion of the motor into linear motion, enabling the cutting blade to move in a straight line. 
+          This makes it possible to achieve a more precise cut than with a manual blade. The motor is also designed to be adjustable, 
+          allowing the user to adjust the speed of the cutting process depending on the type of tissue being cut. The device is highly beneficial for surgeons as it can reduce operative time, reduce the amount of tissue trauma, and improve the accuracy of the cutting process.
+          * [A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ballscrew Actuator](https://ieeexplore.ieee.org/document/8860958)
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Beihang University
+        caption: 2015 - 2019
+        link: https://english.bit.edu.cn/
+        sub_title: BSc Mechanical Engineering
+        description: | # this will include new lines to allow paragraphs
+          <mark>Activities and societies:</mark> developed a Locomotive endoscopy biopsy capsule (LEBC) which's a type of endoscopy procedure used to diagnose and treat gastrointestinal diseases and disorders. 
+          Courses: <mark>Mechanical Design</mark>  <mark>Digital Circuits and systems</mark>  <mark>Computer control system</mark>  <mark>Advanced processing systems</mark>  <mark>Architectural Engineering AutoCAD</mark>  <mark>Computer Aided Design</mark> 
+          <mark>Fundamentals of Manufacturing Engineering</mark>  <mark>Mechanics of Materials</mark>  <mark>Hydrodynamics and hydraulic transmission</mark>. 
+          <mark>Thesis project:</mark> developed a Locomotive endoscopy biopsy capsule (LEBC). to illustrate the use cases of such medical device, the device is part of a procedure involves the insertion of a capsule-like device into the patient's gastrointestinal tract. The capsule contains a tiny camera and other small instruments that collect tissue samples for laboratory analysis. The LEBC procedure is typically performed in an outpatient setting.
+          First, the patient is given a sedative to help them relax and remain comfortable during the procedure. Next, the capsule is inserted through the patient's mouth and swallowed. 
+          The capsule is propelled through the gastrointestinal tract by the patient's natural peristalsis and takes about 8 to 10 hours to pass through. 
+          Once the capsule reaches the desired area of the gastrointestinal tract, the camera takes pictures of the area and the instruments inside the capsule collect tissue samples. 
+          The camera also transmits the images to a computer where they can be viewed by the doctor. After the procedure, the capsule is passed naturally in the patient's stool. 
+          The advantage of this procedure is that it enables the doctor to diagnose and treat diseases and disorders without the need for invasive surgery. 
+          Additionally, the procedure is safe and has minimal risks. The potential risks include nausea, vomiting, abdominal pain.
+  - title: Skills # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      * Deployed (IaC) Infrastructure as Code: The ability to define, deploy, and manage an entire infrastructure using code (e.g. <mark>Terraform</mark>, <mark>Ansible</mark>).
+      * leveraged Cloud Computing services: Knowledge of cloud computing platforms such as <mark>Amazon Web Services (AWS)</mark>
+      * Learning about Containerization/Orchestration: The ability to deploy, manage, and scale distributed applications using container technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark>.
+      * Learning about Monitoring/Logging: The ability to monitor and analyze system performance and debug issues using various tools such as Grafana, <mark>Prometheus</mark>.
+      * Automated tasks using <mark>Bash-Scripting</mark> and <mark>Python</mark>, Automation: The ability to automate tasks such as software builds, deployments, and testing using scripting languages such as Bash and Python.
+      * Learning about Security: The ability to implement security best practices and secure the infrastructure using tools such as security <mark>scanners</mark> and <mark>firewalls</mark>.
+      * leveraged <mark>Git</mark> and <mark>github</mark> to keep tracks of configuration, Source Control: Knowledge of source control systems such as <mark>Git</mark>.
+  - title: Licenses & certifications # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      * [Red Hat® Certified System Administrator (RHCSA®)](https://www.credly.com/earner/earned/badge/652955ed-af09-446d-88a7-2f317d49a0f2)
+      * [Red Hat® Certified Engineer (RHCE®)](https://www.credly.com/earner/earned/badge/22368683-c38a-4881-8c38-41dc1787b023)
+      * [Cisco Certified Network Associate (CCNA®) ](https://www.credly.com/earner/earned/badge/adf12bd6-68ba-4c40-9fc3-aeba38933ad7)
+      * [ AWS Certified Cloud Practitioner (CLF) ](https://www.credly.com/earner/earned/badge/30eea3fe-12ed-4a30-a19d-1b1915bd424a)
+      * [[PCAP-31-03] PCAP Certified Associate in Python Programming](https://www.credly.com/earner/earned/badge/4e5eee86-1f04-4de3-8877-414a6178ebbb)
+      *  On-progress  [Certified Kubernetes Administrator](https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator)
+      *  On-progress  [AWS Certified Solutions Architect](https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate)
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
