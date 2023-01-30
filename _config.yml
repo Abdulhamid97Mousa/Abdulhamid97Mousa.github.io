@@ -58,22 +58,25 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Automate the Process of Deploying Infrastructure on Amazon Web Services (AWS) Using Ansible Automation
+        title: Automate the Process of Deploying Infrastructure on Amazon Web Services (AWS) Using Ansible Automation.
         quote: >
-          Objective: To deploy an application on a secure and cost-effective AWS cloud platform.
+          Objective: To automate the process of deploying an infrastructure on Amazon Web Services (AWS) using Ansible automation..
         description: | # this will include new lines to allow paragraphs
-          The goal of this project was to familirize ourselves with cloud offerings and gain cloud fluency to create  automated, secure,
-          and cost-effective web applications that will be hosted on AWS cloud or other hosting platforms. more specifically, 
-          we luanched a webserver to host my online identity and also deployed a wordpress-based website which is a website builder to create blogs and to share information about tech with others.
-          To accomplish this, we utilized a variety of AWS services and tools.
+          * Utilized Ansible to automate the process of deploying infrastructure using <mark>IaC</mark> Infrastructure as code best practices, and by doing so the time and effort required to deploy the infrastructure was reduced,
+          allowing for faster and more reliable deployment.
 
-          First, we had to gain a basic understanding of the IT services available on AWS and their use cases. We researched AWS services such as EC2, S3, RDS,
-          and IAM and their associated use cases, billing and pricing models, and security concepts. 
-          We then used essential tools such as the command-line environment and shell scripts to configure the infrastructure. We created and configured file systems,
-          created partitions and logical volumes, and configured user accounts and groups.
-          We also deployed, configured, and maintained systems, including software installation, updates, 
-          and utilized core services. We also set up security measures such as firewalls and ACL configuration. We used AWS services such as Amazon Machine Images (AMIs), deployed EC2 instances,
-          configured Amazon Load Balancers and configured auto scaling groups to enable horizontal scaling.
+          * The project included the following steps:
+          1. Setting up a Controller node to manage other managed nodes and also managed to pass AWS account credentials inside ansible playbooks.
+          2. Creating an Ansible playbook to configure the AWS environment.
+          3. Writing Ansible roles for the different components of the infrastructure.
+          4. Writing Ansible tasks to deploy the necessary services such as <mark>EC2 LB SG</mark> on AWS.
+          5. Configuring the security group settings.
+          6. Testing the deployment process.
+          7. Monitoring the deployment progress.
+
+          * The project was completed successfully. The Ansible playbook was able to configure the AWS environment, deploy the necessary services, and configure the security group settings.
+          The deployment process was monitored and tested, ensuring that everything was working as expected. Overall, this project was successful in automating the process of deploying an infrastructure on AWS using Ansible automation. 
+          This allowed for faster and more reliable deployment, saving time and effort.
 
       - layout: left
         title: Deployed and Managed infrastructure on Amazon Web Services (AWS)
