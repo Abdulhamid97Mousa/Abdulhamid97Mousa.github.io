@@ -63,9 +63,8 @@ content:
           Objective: Automate the process of deploying an infrastructure on Amazon Web Services (AWS) using Ansible automation..
         description: | # this will include new lines to allow paragraphs
           * Utilized Ansible to automate the process of deploying infrastructure using <mark>IaC</mark> Infrastructure as code best practices, and by doing so the time and effort required to deploy the infrastructure was reduced,
-          allowing for faster and more reliable deployment.
+          allowing for faster and more reliable deployment. The project included the following steps:
 
-          * The project included the following steps:
           * Setting up a <mark>Controller node</mark> to manage other <mark>Managed nodes</mark> and also managed to pass <mark>AWS account credentials inside ansible playbooks</mark>.
           * Creating an Ansible playbook to configure the AWS environment.
           * Writing Ansible roles for the different components of the infrastructure.
