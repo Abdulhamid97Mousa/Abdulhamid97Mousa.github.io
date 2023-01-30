@@ -70,13 +70,13 @@ content:
           * Creating an Ansible playbook to configure the AWS environment.
           * Writing Ansible roles for the different components of the infrastructure.
           * Writing Ansible tasks to deploy the necessary services such as <mark>EC2 LB SG</mark> on AWS.
-          * Configuring the security group settings.
-          * Testing the deployment process.
+          * <mark>Configuring the security group settings</mark>.
+          * <mark>Testing and troubleshooting the deployment process</mark>.
           * Monitoring the deployment progress.
 
           * The project was completed successfully. The Ansible playbook was able to configure the AWS environment, deploy the necessary services, and configure the security group settings.
           The deployment process was monitored and tested, ensuring that everything was working as expected. Overall, this project was successful in automating the process of deploying an infrastructure on AWS using Ansible automation. 
-          This allowed for faster and more reliable deployment, saving time and effort.
+          This allowed for <mark>faster and more reliable deployment, saving time and effort</mark>.
 
       - layout: left
         title: Deployed and Managed infrastructure on Amazon Web Services (AWS)
