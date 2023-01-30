@@ -94,7 +94,7 @@ content:
           * Created and configured file systems, and followed best practices and conventions according to AWS Documentations. created partitions and logical volumes, and configured user accounts and groups.
           * Deployed, configured, and maintained systems, including regular software updates and installation, and regular backing up data to increase reliabelity and fault tolerance. 
           * Setting up security measures such as <mark>Firewalls, IP Tables, and forward and backword proxy configurations</mark>. 
-          * Automated the process of creating EC2 instances through <mark>Amazon Machine Images (AMIs)</mark> and configured <mark>Amazon Load Balancers as well as Auto Scaling Groups</mark> to enable <mark>horizontal scaling</mark>.
+          * Automated the process of creating EC2 instances through <mark>Amazon Machine Images (AMIs)</mark>.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
