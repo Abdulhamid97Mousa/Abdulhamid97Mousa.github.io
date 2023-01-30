@@ -58,9 +58,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Deploy and Manage infrastructure on Amazon Web Services (AWS)
-        sub_title: Graduate Researcher
-        caption: Sep 2021 - Present
+        title: Deployed and Managed infrastructure on Amazon Web Services (AWS)
         quote: >
           Objective: To deploy an application on a secure and cost-effective AWS cloud platform.
         description: | # this will include new lines to allow paragraphs
