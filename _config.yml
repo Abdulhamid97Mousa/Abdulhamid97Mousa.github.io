@@ -14,18 +14,23 @@ author: Fábio Madeira
 # jekyllt.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Chris Turner's Resume
+title: Abdulhamid Mousa's Resume
 name: Abdulhamid M. Mousa
 email: Abdulhamid97mousa@gmail.com
 website: https://www.abdulhamid97mousa.tk/
 website_full: https://www.abdulhamid97mousa.tk/
 github: Abdulhamid97Mousa
-twitter: HAMID97MOUSA
+twitter: twitter
+tel: +86 130 5136 2167
+tel_full: tel: +86 130 5136 2167
+
+google_maps: 'https://www.google.com/maps/place/%E8%A3%95%E9%BE%99%E5%B0%8F%E5%8C%BA/@40.1191809,116.6643327,15z/data=!4m9!1m2!2m1!1z6aG65LmJ5Yy66KOV6b6Z5LiA5Yy6OeWPt-alvDPljZXlhYM1MDI!3m5!1s0x35f10e304b409e35:0xff60d2e067b098ad!8m2!3d40.12003!4d116.664254!16s%2Fg%2F11dfj3hkm1'
 address:
   street: 顺义区裕龙一区9号楼3单元502
-  postcode: 101300
+  postcode: 101399
   city: Beijing
   country: China
 
+# 顺义区裕龙一区9号楼3单元502
 # needed for travis-ci build
 exclude: [vendor]
