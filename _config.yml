@@ -110,12 +110,6 @@ content:
           During my graduate research i've successfully reproduced results of published papers and helped my lab mates in building a more robust CNNs to detect bearings faults.
           * [1D-CNN Vibration Signal Bearing Fault Diagnosis](github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis)
           * [Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions](github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_C2N)
-          <div>
-            <p>
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Image_created_with_a_mobile_phone.png/220px-Image_created_with_a_mobile_phone.png" alt="mobile phone image">
-            </p>
-          </div>
-          * ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
       - layout: left
         title: Beihang University
         link: https://ev.buaa.edu.cn/
@@ -173,6 +167,17 @@ content:
       * [[PCAP-31-03] PCAP Certified Associate in Python Programming](https://www.credly.com/earner/earned/badge/4e5eee86-1f04-4de3-8877-414a6178ebbb)
       *  On-progress  [Certified Kubernetes Administrator](https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator)
       *  On-progress  [AWS Certified Solutions Architect](https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate)
+
+<html>
+  <head>
+    <title> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Image_created_with_a_mobile_phone.png/220px-Image_created_with_a_mobile_phone.png" alt="mobile phone image">
+    </title>
+  </head>
+  <body>
+    <p>This is an example paragraph.</p>
+  </body>
+</html>
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
