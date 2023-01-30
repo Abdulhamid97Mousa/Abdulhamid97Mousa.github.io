@@ -73,8 +73,8 @@ content:
           This approach has been shown to offer improved accuracy and efficiency compared to traditional signal processing techniques.
 
           During my graduate research i've successfully reproduced results of published papers and helped my lab mates in building a more robust CNNs to detect bearings faults.
-          ##### 1. [1D-CNN Vibration Signal Bearing Fault Diagnosis](github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis)
-          ##### 2. [Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions](github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_C2N)
+          * [1D-CNN Vibration Signal Bearing Fault Diagnosis](github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis)
+          * [Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions](github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_C2N)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -95,8 +95,8 @@ content:
           This approach has been shown to offer improved accuracy and efficiency compared to traditional signal processing techniques.
 
           During my graduate research i've successfully reproduced results of published papers and helped my lab mates in building a more robust CNNs to detect bearings faults.
-          ##### 1. [1D-CNN Vibration Signal Bearing Fault Diagnosis](github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis)
-          ##### 2. [Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions](github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_C2N)
+          * [1D-CNN Vibration Signal Bearing Fault Diagnosis](github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis)
+          * [Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions](github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_C2N)
 
       - layout: left
         title: Beihang University
@@ -117,7 +117,7 @@ content:
           This makes it possible to achieve a more precise cut than with a manual blade. The motor is also designed to be adjustable, 
           allowing the user to adjust the speed of the cutting process depending on the type of tissue being cut. The device is highly beneficial for surgeons as it can reduce operative time, reduce the amount of tissue trauma, and improve the accuracy of the cutting process.
 
-          ##### 1. [A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ballscrew Actuator](https://ieeexplore.ieee.org/document/8860958)
+          * [A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ballscrew Actuator](https://ieeexplore.ieee.org/document/8860958)
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -160,8 +160,6 @@ content:
   - title: Licenses & certifications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
       * [Red Hat® Certified System Administrator (RHCSA®)](https://www.credly.com/earner/earned/badge/652955ed-af09-446d-88a7-2f317d49a0f2)
 
       * [Red Hat® Certified Engineer (RHCE®)](https://www.credly.com/earner/earned/badge/22368683-c38a-4881-8c38-41dc1787b023)
