@@ -95,7 +95,8 @@ content:
     content:
       - layout:
         title: Beijing Institute Of Technology
-        link: https://english.bit.edu.cn/
+        link: |
+          ![profile_picture](img/profile.jpg)
         sub_title: Graduate Researcher
         caption: <img src="img/profile.jpg" </img>
         quote: >
