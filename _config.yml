@@ -93,11 +93,11 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout:
-        title: Beijing Institute Of Technology <img src="img/profile.jpg" </img>
+      - layout: left
+        title: Beijing Institute Of Technology
         link: https://english.bit.edu.cn/
         sub_title: Graduate Researcher
-        caption: <img src="img/profile.jpg" </img>
+        caption: Sep 2021 - Present
         quote: >
           Solving one of the most pressing problems in the field Bearing Faults Diagnosis using variety of Convolutional neural networks (CNN).
         description: | # this will include new lines to allow paragraphs
@@ -110,8 +110,6 @@ content:
           During my graduate research i've successfully reproduced results of published papers and helped my lab mates in building a more robust CNNs to detect bearings faults.
           * [1D-CNN Vibration Signal Bearing Fault Diagnosis](github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis)
           * [Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions](github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_C2N)
-          <img src="img/profile.jpg" </img>
-
       - layout: left
         title: Beihang University
         link: https://ev.buaa.edu.cn/
