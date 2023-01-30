@@ -95,7 +95,7 @@ content:
     content:
       - layout: left
         title: Beijing Institute Of Technology
-        link: https://english.bit.edu.cn/
+        link: <img src="img/CCNA/Beihang_University_Logo.svg.png"</img>
         sub_title: Graduate Researcher
         caption: Sep 2021 - Present
         quote: >
