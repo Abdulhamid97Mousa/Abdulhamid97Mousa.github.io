@@ -51,7 +51,7 @@ content:
       in additon, I have also developed a wide range of skills in deploying infrastructure using <mark>Ansible</mark> and <mark>Terraform</mark> whether on premis or on <mark>AWS Cloud</mark>, programing with <mark>Python</mark>, scheduled software installation and backups, regular maintenance and troubleshooting.
       similary, I have successfully implemented a number of IT projects, which have improved the efficiency and reliability of the systems. 
 
-      My communication skills, combined with my detail-oriented nature, enable me to effectively convey technical details in a straightforward manner. Additionally,
+      My communication skills, combined with my detail-oriented nature, enables me to effectively convey technical details in a straightforward manner. Additionally,
       I am a quick learner, able to work autonomously or collaboratively, and am proficient in a variety of computer programs and operating systems, such as <mark>Debian-based (Ubuntu), Redhat-based (Rhel/CentOS), and Windows Server</mark>.
 
   - title: Projects # Title for the section
@@ -90,7 +90,7 @@ content:
 
           * Gained a basic understanding of the IT services available on AWS and their use cases. We researched AWS services such as <mark>EC2, S3, RDS, Route53
           and IAM</mark> while setting up a <mark>budget and billing alarms</mark> to be notified and act accordingly. 
-          * Utilized essential tools for handling files, directories, and services. Among these services such as <marks> SSH, DHCP, DNS, HTTP, FTP, NFS, NTP, Cron, and Loggings </marks>. 
+          * Utilized essential tools for handling files, directories, and services. Among these services such as <mark> SSH, DHCP, DNS, HTTP, FTP, NFS, NTP, Cron, and Loggings </mark>. 
           * Familiarized myself with command-line environment and shell scripts to configure the infrastructure.
           * Created and configured file systems, and followed best practices and conventions according to AWS Documentations. created partitions and logical volumes, and configured user accounts and groups.
           * Deployed, configured, and maintained systems, including regular software updates and installation, and regular backing up data to increase reliabelity and fault tolerance. 
@@ -108,7 +108,7 @@ content:
         quote: >
           Solving one of the most pressing problems in the field Bearing Faults Diagnosis using variety of Convolutional neural networks (CNN).
         description: | # this will include new lines to allow paragraphs
-          Bearing fault diagnosis is the process of detecting and diagnosing faults in bearings, which are critical components of many rotating element machinary.
+          <mark>Bearing Fault Diagnosis</mark> is the process of detecting and diagnosing faults in bearings, which are critical components of many rotating element machinary.
           in this research field, it is important to accurately diagnose bearing faults in order to prevent further damage and costly repairs. 
           Traditionally, bearing fault diagnosis has been done using <mark>signal processing techniques</mark>, such as <mark>wavelet analysis</mark> and <mark>time-frequency analysis</mark>. However,
           these methods are limited in their ability to accurately detect and diagnose faults. <mark>Branch CNNs</mark> along with many other <mark>CNNs architectures</mark> offer a more accurate and efficient approach to bearing fault diagnosis. 
