@@ -60,7 +60,7 @@ content:
       - layout: left
         title: Automate the Process of Deploying Infrastructure on Amazon Web Services (AWS) Using Ansible Automation.
         quote: >
-          Objective: To automate the process of deploying an infrastructure on Amazon Web Services (AWS) using Ansible automation..
+          Objective: Automate the process of deploying an infrastructure on Amazon Web Services (AWS) using Ansible automation..
         description: | # this will include new lines to allow paragraphs
           * Utilized Ansible to automate the process of deploying infrastructure using <mark>IaC</mark> Infrastructure as code best practices, and by doing so the time and effort required to deploy the infrastructure was reduced,
           allowing for faster and more reliable deployment.
@@ -81,7 +81,7 @@ content:
       - layout: left
         title: Deployed and Managed infrastructure on Amazon Web Services (AWS)
         quote: >
-          Objective: To deploy an application on a secure, easy to manage, and cost-effective AWS cloud platform.
+          Objective: Deploy an application on a secure, easy to manage, and cost-effective AWS cloud platform.
         description: | # this will include new lines to allow paragraphs
           * The goal of this project was to familirize ourselves with cloud offerings and gain cloud fluency to create  automated, secure,
           and cost-effective web applications that will be hosted on AWS cloud or other hosting platforms. more specifically, 
