@@ -44,17 +44,21 @@ content:
   - title: Objectives # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      I am writing to express my interest in the <mark>System Administration</mark>  role which will help me later in building a career as <mark> DevOps engineer</mark>. With my experience in IT and system administration, I am confident in my skills and looking for ways to contribute to the success of your organization.
-      Having been in the IT industry for the past 3 years, I have acquired experience and knowledge in IT system administration and the development cycle of IT solutions. During this time, I have maintained and managed computer systems and networks with a high level of efficiency.
-      in additon, I have also developed a wide range of skills in deploying infrastructure using <mark>Ansible</mark> and <mark>Terraform</mark> whether on premis or on <mark>AWS Cloud</mark>, programing with <mark>Python</mark>, scheduled software installation and backups, regular maintenance and troubleshooting.
+      I am writing to express my interest in the <mark>System Administration</mark> role which will help me later in building a career as <mark> DevOps engineer</mark>. With my experience in IT and system administration,
+      I am confident in my skills and looking for ways to grow in my field.
+      Having been in the IT industry for the past 3 years, I have acquired experience and knowledge in IT system administration and the development cycle of IT solutions.
+      During this time, I have maintained and managed computer systems and networks with a high level of efficiency.
+      in additon, I have also developed a wide range of skills in deploying infrastructure using <mark>Ansible</mark> and <mark>Terraform</mark> whether on premis or on <mark>AWS Cloud</mark>,
+      programing with <mark>Python</mark>, scheduled software installation and backups, regular maintenance and troubleshooting.
       similary, I have successfully implemented a number of IT projects, which have improved the efficiency and reliability of the systems. 
       My communication skills, combined with my detail-oriented nature, enables me to effectively convey technical details in a straightforward manner. Additionally,
       I am a quick learner, able to work autonomously or collaboratively, and am proficient in a variety of computer programs and operating systems, such as <mark>Debian-based (Ubuntu), Redhat-based (Rhel/CentOS), and Windows Server</mark>.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Automate the Process of Deploying Infrastructure on Amazon Web Services (AWS) Using Ansible Automation.
+        title: Automated the Process of Deploying Infrastructure on Amazon Web Services (AWS) Using Ansible Automation.
         quote: >
           Objective: Automate the process of deploying an infrastructure on Amazon Web Services (AWS) using Ansible automation..
         description: | # this will include new lines to allow paragraphs
