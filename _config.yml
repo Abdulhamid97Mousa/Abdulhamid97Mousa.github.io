@@ -96,6 +96,10 @@ content:
       - layout: left
         title: Beijing Institute Of Technology
         link: https://english.bit.edu.cn/
+        additional_links: (optional)
+          - title: Beijing_Institute_of_Technology_logo.png
+            icon: | 
+              ![alt text](https://github.com/Abdulhamid97Mousa/Abdulhamid97Mousa.github.io/blob/main/img/Beijing_Institute_of_Technology_logo.png?raw=true "Logo Title Text 1")
         sub_title: Graduate Researcher
         caption: Sep 2021 - Present
         quote: >
@@ -160,7 +164,6 @@ content:
   - title: Licenses & certifications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      * ![alt text](https://github.com/Abdulhamid97Mousa/Abdulhamid97Mousa.github.io/blob/main/img/AWS%20Certified%20Cloud%20Practitioner%20(CLF).jpg?raw=true "Logo Title Text 1")
       * [Red Hat® Certified System Administrator (RHCSA®)](https://www.credly.com/earner/earned/badge/652955ed-af09-446d-88a7-2f317d49a0f2)
       * [Red Hat® Certified Engineer (RHCE®)](https://www.credly.com/earner/earned/badge/22368683-c38a-4881-8c38-41dc1787b023)
       * [Cisco Certified Network Associate (CCNA®) ](https://www.credly.com/earner/earned/badge/adf12bd6-68ba-4c40-9fc3-aeba38933ad7)
