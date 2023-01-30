@@ -95,9 +95,9 @@ content:
     content:
       - layout:
         title: Beijing Institute Of Technology
-        link: <img src="img/ccna.jpg" </img>
+        link: https://english.bit.edu.cn/
         sub_title: Graduate Researcher
-        caption: Sep 2021 - Present
+        caption: <img src="img/profile.jpg" </img>
         quote: >
           Solving one of the most pressing problems in the field Bearing Faults Diagnosis using variety of Convolutional neural networks (CNN).
         description: | # this will include new lines to allow paragraphs
