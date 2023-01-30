@@ -74,9 +74,8 @@ content:
           We then used essential tools such as the command-line environment and shell scripts to configure the infrastructure. We created and configured file systems,
           created partitions and logical volumes, and configured user accounts and groups.
           We also deployed, configured, and maintained systems, including software installation, updates, 
-          and core services. We also set up security measures such as firewalls and ACL configuration, 
-          and managed containers using container management tools. We used AWS services such as Amazon Machine Images (AMIs) to deploy EC2 instances and configured Amazon Load Balancers.
-          We also configured auto scaling groups to enable horizontal scaling.
+          and utilized core services. We also set up security measures such as firewalls and ACL configuration. We used AWS services such as Amazon Machine Images (AMIs), deployed EC2 instances,
+          configured Amazon Load Balancers and configured auto scaling groups to enable horizontal scaling.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
