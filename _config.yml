@@ -88,7 +88,7 @@ content:
           we luanched a webserver to host my nline identity and also deployed a wordpress-based website which is a website builder to create blogs and to share information about tech with others.
           To accomplish this, we utilized a variety of AWS services and tools. 
 
-          * Gained a basic understanding of the IT services available on AWS and their use cases. We researched AWS services such as <mark>EC2, S3, RDS,
+          * Gained a basic understanding of the IT services available on AWS and their use cases. We researched AWS services such as <mark>EC2, S3, RDS, Route53
           and IAM</mark> while setting up a <mark>budget and billing alarms</mark> to be notified and act accordingly. 
           * Utilized essential tools for handling files, directories, and services. Among these services such as <marks>SSH, DHCP, DNS, HTTP, FTP, NFS, NTP, Cron, and Loggings</marks>. 
           * Familiarized myself with command-line environment and shell scripts to configure the infrastructure.
