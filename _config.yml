@@ -93,9 +93,9 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout:
         title: Beijing Institute Of Technology
-        link: <img src="img/CCNA/Beihang_University_Logo.svg.png"</img>
+        link: <img src="img/ccna.jpg"</img>
         sub_title: Graduate Researcher
         caption: Sep 2021 - Present
         quote: >
