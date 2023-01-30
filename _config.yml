@@ -80,10 +80,10 @@ content:
         quote: >
           Objective: To deploy an application on a secure, easy to manage, and cost-effective AWS cloud platform.
         description: | # this will include new lines to allow paragraphs
-          * The goal of this project was to familirize ourselves with cloud offerings and gain cloud fluency to create  automated, secure,
+          ** The goal of this project was to familirize ourselves with cloud offerings and gain cloud fluency to create  automated, secure,
           and cost-effective web applications that will be hosted on AWS cloud or other hosting platforms. more specifically, 
           we luanched a webserver to host my online identity and also deployed a wordpress-based website which is a website builder to create blogs and to share information about tech with others.
-          To accomplish this, we utilized a variety of AWS services and tools.
+          To accomplish this, we utilized a variety of AWS services and tools. **
 
           * Gained a basic understanding of the IT services available on AWS and their use cases. We researched AWS services such as <mark>EC2, S3, RDS,
           and IAM</mark> while setting up a budget and billing alarms to be notified and act accordingly. 
