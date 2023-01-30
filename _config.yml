@@ -98,8 +98,7 @@ content:
         link: https://english.bit.edu.cn/
         additional_links: (optional)
           - title: Beijing_Institute_of_Technology_logo.png
-            icon: | 
-              ![alt text](https://github.com/Abdulhamid97Mousa/Abdulhamid97Mousa.github.io/blob/main/img/Beijing_Institute_of_Technology_logo.png?raw=true "Logo Title Text 1")
+            icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://github.com/Abdulhamid97Mousa/Abdulhamid97Mousa.github.io/blob/main/img/Beijing_Institute_of_Technology_logo.png?raw=true)
         sub_title: Graduate Researcher
         caption: Sep 2021 - Present
         quote: >
@@ -114,6 +113,7 @@ content:
           During my graduate research i've successfully reproduced results of published papers and helped my lab mates in building a more robust CNNs to detect bearings faults.
           * [1D-CNN Vibration Signal Bearing Fault Diagnosis](github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis)
           * [Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions](github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_C2N)
+      
       - layout: left
         title: Beihang University
         link: https://ev.buaa.edu.cn/
@@ -161,6 +161,7 @@ content:
       * Automated tasks using <mark>Bash-Scripting</mark> and <mark>Python</mark>, Automation: The ability to automate tasks such as software builds, deployments, and testing using scripting languages such as Bash and Python.
       * Learning about Security: The ability to implement security best practices and secure the infrastructure using tools such as security <mark>scanners</mark> and <mark>firewalls</mark>.
       * leveraged <mark>Git</mark> and <mark>github</mark> to keep tracks of configuration, Source Control: Knowledge of source control systems such as <mark>Git</mark>.
+  
   - title: Licenses & certifications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
