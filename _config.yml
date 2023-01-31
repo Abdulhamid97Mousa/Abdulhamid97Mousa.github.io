@@ -146,27 +146,6 @@ content:
           The camera also transmits the images to a computer where they can be viewed by the doctor. After the procedure, the capsule is passed naturally in the patient's stool. 
           The advantage of this procedure is that it enables the doctor to diagnose and treat diseases and disorders without the need for invasive surgery. 
           Additionally, the procedure is safe and has minimal risks. The potential risks include nausea, vomiting, abdominal pain.
-  - title: Skills # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-      * Deployed (IaC) Infrastructure as Code: The ability to define, deploy, and manage an entire infrastructure using code (e.g. <mark>Terraform</mark>, <mark>Ansible</mark>).
-      * leveraged Cloud Computing services: Knowledge of cloud computing platforms such as <mark>Amazon Web Services (AWS)</mark>
-      * Learning about Containerization/Orchestration: The ability to deploy, manage, and scale distributed applications using container technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark>.
-      * Learning about Monitoring/Logging: The ability to monitor and analyze system performance and debug issues using various tools such as Grafana, <mark>Prometheus</mark>.
-      * Automated tasks using <mark>Bash-Scripting</mark> and <mark>Python</mark>, Automation: The ability to automate tasks such as software builds, deployments, and testing using scripting languages such as Bash and Python.
-      * Learning about Security: The ability to implement security best practices and secure the infrastructure using tools such as security <mark>scanners</mark> and <mark>firewalls</mark>.
-      * leveraged <mark>Git</mark> and <mark>github</mark> to keep tracks of configuration, Source Control: Knowledge of source control systems such as <mark>Git</mark>.
-
-  - title: Licenses & certifications # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-      * [Red Hat® Certified System Administrator (RHCSA®)](https://www.credly.com/earner/earned/badge/652955ed-af09-446d-88a7-2f317d49a0f2)
-      * [Red Hat® Certified Engineer (RHCE®)](https://www.credly.com/earner/earned/badge/22368683-c38a-4881-8c38-41dc1787b023)
-      * [Cisco Certified Network Associate (CCNA®) ](https://www.credly.com/earner/earned/badge/adf12bd6-68ba-4c40-9fc3-aeba38933ad7)
-      * [ AWS Certified Cloud Practitioner (CLF) ](https://www.credly.com/earner/earned/badge/30eea3fe-12ed-4a30-a19d-1b1915bd424a)
-      * [[PCAP-31-03] PCAP Certified Associate in Python Programming](https://www.credly.com/earner/earned/badge/4e5eee86-1f04-4de3-8877-414a6178ebbb)
-      *  On-progress  [Certified Kubernetes Administrator](https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator)
-      *  On-progress  [AWS Certified Solutions Architect](https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate)
 
   - title: Professional Skills # Title for the section
     layout: text # Type of content section (list/text)
@@ -215,6 +194,28 @@ content:
           </div>
         </header>
       </body>
+
+  - title: DevOps Skills # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      * Deployed (IaC) Infrastructure as Code: The ability to define, deploy, and manage an entire infrastructure using code (e.g. <mark>Terraform</mark>, <mark>Ansible</mark>).
+      * leveraged Cloud Computing services: Knowledge of cloud computing platforms such as <mark>Amazon Web Services (AWS)</mark>
+      * Learning about Containerization/Orchestration: The ability to deploy, manage, and scale distributed applications using container technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark>.
+      * Learning about Monitoring/Logging: The ability to monitor and analyze system performance and debug issues using various tools such as Grafana, <mark>Prometheus</mark>.
+      * Automated tasks using <mark>Bash-Scripting</mark> and <mark>Python</mark>, Automation: The ability to automate tasks such as software builds, deployments, and testing using scripting languages such as Bash and Python.
+      * Learning about Security: The ability to implement security best practices and secure the infrastructure using tools such as security <mark>scanners</mark> and <mark>firewalls</mark>.
+      * leveraged <mark>Git</mark> and <mark>github</mark> to keep tracks of configuration, Source Control: Knowledge of source control systems such as <mark>Git</mark>.
+
+  - title: Licenses & certifications # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      * [Red Hat® Certified System Administrator (RHCSA®)](https://www.credly.com/earner/earned/badge/652955ed-af09-446d-88a7-2f317d49a0f2)
+      * [Red Hat® Certified Engineer (RHCE®)](https://www.credly.com/earner/earned/badge/22368683-c38a-4881-8c38-41dc1787b023)
+      * [Cisco Certified Network Associate (CCNA®) ](https://www.credly.com/earner/earned/badge/adf12bd6-68ba-4c40-9fc3-aeba38933ad7)
+      * [ AWS Certified Cloud Practitioner (CLF) ](https://www.credly.com/earner/earned/badge/30eea3fe-12ed-4a30-a19d-1b1915bd424a)
+      * [[PCAP-31-03] PCAP Certified Associate in Python Programming](https://www.credly.com/earner/earned/badge/4e5eee86-1f04-4de3-8877-414a6178ebbb)
+      *  On-progress  [Certified Kubernetes Administrator](https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator)
+      *  On-progress  [AWS Certified Solutions Architect](https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate)
 
 # Build settings
 remote_theme: sproogen/resume-theme
