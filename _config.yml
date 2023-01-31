@@ -172,7 +172,6 @@ content:
   - title: Habits and Hobbies # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      <!DOCTYPE html>
       <html lang="en-US">
         <head>
           <meta charset="UTF-8">
