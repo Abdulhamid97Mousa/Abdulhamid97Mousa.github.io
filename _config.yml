@@ -172,34 +172,6 @@ content:
   - title: Habits and Hobbies # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      <html lang="en-US">
-        <head>
-          <meta charset="UTF-8">
-          <meta http-equiv="X-UA-Compatible" content="IE=edge">
-          <meta name="viewport" content="width=device-width, initial-scale=1">
-          <title>Abdulhamid's Resume</title>
-          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin"/>
-          <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-          <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap"/>
-          <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap" media="print" onload="this.media='all'"/>
-          <noscript>
-            <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap"/>
-          </noscript>
-          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-          <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-          <link href="css/font-awesome/css/all.min.css?ver=1.2.1" rel="stylesheet">
-          <link href="css/mdb.min.css?ver=1.2.1" rel="stylesheet">
-          <link href="css/aos.css?ver=1.2.1" rel="stylesheet">
-          <link href="css/main.css?ver=1.2.1" rel="stylesheet">
-          <noscript>
-            <style type="text/css">
-              [data-aos] {
-                  opacity: 1 !important;
-                  transform: translate(0) scale(1) !important;
-              }
-            </style>
-          </noscript>
-        </head>
           <body class="bg-light" id="top">
             <header class="d-print-none">
               <div class="shadow-1-strong bg-white my-5 p-5" id="skills">
@@ -255,7 +227,7 @@ content:
               </div>
             </header>
           </body>
-      </html>
+
 
 # Build settings
 remote_theme: sproogen/resume-theme
