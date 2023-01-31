@@ -168,7 +168,7 @@ content:
       *  On-progress  [Certified Kubernetes Administrator](https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator)
       *  On-progress  [AWS Certified Solutions Architect](https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate)
 
-  - title: Habits and Hobbies # Title for the section
+  - title: Professional Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
       <head>
@@ -202,10 +202,9 @@ content:
           <header class="d-print-none">
             <div class="shadow-1-strong bg-white my-5 p-5" id="skills">
               <div class="skills-section">
-                <h2 class="h2 fw-light mb-4"><strong>Professional Skills</strong></h2>
                 <div class="row">
                   <div class="col-md-6">
-                    <div class="mb-3"><span class="fw-bolder">Python Programmer (PCAP)</span>
+                    <div class="mb-3"><span class="fw-bolder">Python Programming language (PCAP)</span>
                       <div class="progress my-2 rounded" style="height: 20px">
                         <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="100" data-aos-anchor=".skills-section" style="width: 80%;" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">Master</div>
                       </div>
