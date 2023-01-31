@@ -34,26 +34,22 @@ about_title: About Me
 about_profile_image: img/profile.jpg
 
 about_content: | # this will include new lines to allow paragraphs
-  Hamid is a <mark>System Administration</mark> and Aspiring to be <mark>DevOps Engineer</mark> in the future. He has a deep understanding of IT infrastructure and networking protocols, 
-  and is proficient in both deploying and managing <mark> IT infrastructure </mark>. Hamid is a quick learner, with a passion for exploring new technologies to utilize them to solve real-world problems and creating IT solutions. 
+  Hamid is a <mark>System Administration</mark> and Aspiring to be <mark>DevOps Engineer</mark> in the future. possesses a deep understanding of IT infrastructure and networking protocols, 
+  and is proficient in both deploying and managing <mark> IT infrastructure </mark>. He is a quick learner, with a passion for exploring new technologies and creating IT solutions. 
   currently, studying containerization & cloud native technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark>. he has developed an interest in automation and deployment tools like <mark>Ansible</mark> and <mark>Terraform</mark>. 
-  his dedication and highly organized nature makes him an ideal person to share knowledge and help others get up to speed with the latest technologies. 
-  in addition, He is a reliable and hardworking individual, and his knowledge and willingness to learn makes him an invaluable team member. The modern workplace is ever-evolving, 
-  and Hamid is the perfect example of the kind of engineer who can adapt and keep up to date with ever-changing technologies and tools.
+  his dedication, problem-solving skills, and friendly nature makes him a ideal person for deploying, managing, and troubleshooting IT solutions. 
+  in addition, The modern workplace is ever-evolving, and he is the perfect example of the kind of engineer who can quickly adapt and keep up to date with ever-changing technologies and tools.
 content:
   - title: Objectives # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
       I am writing to express my interest in the <mark>System Administration</mark> role which will help me later in building a career as <mark> DevOps engineer</mark>. With my experience in IT and system administration,
-      I am confident in my skills and looking for ways to grow in my field.
-      Having been in the IT industry for the past 3 years, I have acquired experience and knowledge in IT system administration and the development cycle of IT solutions.
-      During this time, I have maintained and managed computer systems and networks with a high level of efficiency.
-      in additon, I have also developed a wide range of skills in deploying infrastructure using <mark>Ansible</mark> and <mark>Terraform</mark> whether on premis or on <mark>AWS Cloud</mark>,
-      programing with <mark>Python</mark>, scheduled software installation and backups, regular maintenance and troubleshooting.
-      similary, I have successfully implemented a number of IT projects, which have improved the efficiency and reliability of the systems. 
-      My communication skills, combined with my detail-oriented nature, enables me to effectively convey technical details in a straightforward manner. Additionally,
-      I am a quick learner, able to work autonomously or collaboratively, and am proficient in a variety of computer programs and operating systems, such as <mark>Debian-based (Ubuntu), Redhat-based (Rhel/CentOS), and Windows Server</mark>.
-
+      I am confident in my skills and looking for opportunities to grow in the DevOps field and turn my knowledge into well-architected solutions.
+      With that being said, having been in the IT industry for the past 3 years, During that time, I have maintained and managed computer systems and networks with a high level of efficiency.
+      In addition, I have also developed a wide range of skills in deploying infrastructure using <mark>Ansible</mark> and <mark>Terraform</mark> whether on-premise or on <mark>AWS Cloud</mark>,
+      programming with <mark>Python</mark>, scheduled software installation and backups, regular maintenance, and troubleshooting.
+      Similarly, I have successfully implemented a number of IT projects, which have improved the efficiency and reliability of existing IT solutions. 
+      Last but not least, I also want to shed light on my ability to work autonomously or collaboratively, and am proficient in a variety of computer programs and operating systems, such as <mark>Debian-based (Ubuntu), Redhat-based (Rhel/CentOS), and Windows Server</mark>.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -62,7 +58,7 @@ content:
         quote: >
           Objective: Automate the process of deploying an infrastructure on Amazon Web Services (AWS) using Ansible automation..
         description: | # this will include new lines to allow paragraphs
-          * Utilized Ansible to automate the process of deploying infrastructure using <mark>IaC</mark> Infrastructure as code best practices, and by doing so the time and effort required to deploy the infrastructure was reduced,
+          * Utilized Ansible to automate the process of deploying infrastructure using <mark>IaC</mark> Infrastructure as code best practices, and by doing so the time and effort required to deploy the infrastructure were reduced,
           allowing for faster and more reliable deployment. The project included the following steps:
           * Setting up a <mark>Controller node</mark> to manage other <mark>Managed nodes</mark> and also managed to pass <mark>AWS account credentials inside ansible playbooks</mark>.
           * Creating an Ansible playbook to configure the AWS environment.
@@ -72,24 +68,24 @@ content:
           * <mark>Testing and troubleshooting the deployment process</mark>.
           * Monitoring the deployment progress.
           * The project was completed successfully. The Ansible playbook was able to configure the AWS environment, deploy the necessary services, and configure the security group settings.
-          The deployment process was monitored and tested, ensuring that everything was working as expected. Overall, this project was successful in automating the process of deploying an infrastructure on AWS using Ansible automation. 
+          The deployment process was monitored and tested, ensuring that everything was working as expected. Overall, this project was successful in automating the process of deploying infrastructure on AWS using Ansible automation. 
           This allowed for <mark>faster and more reliable deployment, saving time and effort</mark>.
       - layout: left
         title: Deployed and Managed infrastructure on Amazon Web Services (AWS)
         quote: >
           Objective: Deploy an application on a secure, easy to manage, and cost-effective AWS cloud platform.
         description: | # this will include new lines to allow paragraphs
-          * The goal of this project was to familirize ourselves with cloud offerings and gain cloud fluency to create  automated, secure,
+          * The goal of this project was to familiarize ourselves with cloud offerings and gain cloud fluency to create automated, secure,
           and cost-effective web applications that will be hosted on AWS cloud or other hosting platforms. more specifically, 
-          we luanched a webserver to host my nline identity and also deployed a wordpress-based website which is a website builder to create blogs and to share information about tech with others.
+          we launched a webserver to host my online identity and also deployed a WordPress-based website which is a website builder to create blogs and share information about tech with others.
           To accomplish this, we utilized a variety of AWS services and tools. 
           * Gained a basic understanding of the IT services available on AWS and their use cases. We researched AWS services such as <mark>EC2, S3, RDS, Route53
           and IAM</mark> while setting up a <mark>budget and billing alarms</mark> to be notified and act accordingly. 
           * Utilized essential tools for handling files, directories, and services. Among these services such as <mark> SSH, DHCP, DNS, HTTP, FTP, NFS, NTP, Cron, and Loggings </mark>. 
-          * Familiarized myself with command-line environment and shell scripts to configure the infrastructure.
-          * Created and configured file systems, and followed best practices and conventions according to AWS Documentations. created partitions and logical volumes, and configured user accounts and groups.
-          * Deployed, configured, and maintained systems, including regular software updates and installation, and regular backing up data to increase reliabelity and fault tolerance. 
-          * Setting up security measures such as <mark>Firewalls, IP Tables, and forward and backword proxy configurations</mark>.
+          * Familiarized me with the command-line environment and shell scripts to configure the infrastructure.
+          * Created and configured file systems, and followed best practices and conventions according to AWS Documentation. created partitions and logical volumes, and configured user accounts and groups.
+          * Deployed, configured, and maintained systems, including regular software updates and installation, and regular backing up data to increase reliability and fault tolerance. 
+          * Setting up security measures such as <mark>Firewalls, IP Tables, and forward and backward proxy configurations</mark>.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -103,13 +99,13 @@ content:
         quote: >
           Solving one of the most pressing problems in the field Bearing Faults Diagnosis using variety of Convolutional neural networks (CNN).
         description: | # this will include new lines to allow paragraphs
-          <mark>Bearing Fault Diagnosis</mark> is the process of detecting and diagnosing faults in bearings, which are critical components of many rotating element machinary.
+          <mark>Bearing Fault Diagnosis</mark> is the process of detecting and diagnosing faults in bearings, which are critical components of many rotating element machineries.
           in this research field, it is important to accurately diagnose bearing faults in order to prevent further damage and costly repairs. 
           Traditionally, bearing fault diagnosis has been done using <mark>signal processing techniques</mark>, such as <mark>wavelet analysis</mark> and <mark>time-frequency analysis</mark>. However,
           these methods are limited in their ability to accurately detect and diagnose faults. <mark>Branch CNNs</mark> along with many other <mark>CNNs architectures</mark> offer a more accurate and efficient approach to bearing fault diagnosis. 
           In this approach, a CNN model is trained to identify patterns in the vibration data from a bearing. The CNN model can then be used to detect and diagnose faults in the bearing. 
           This approach has been shown to offer improved accuracy and efficiency compared to traditional signal processing techniques.
-          During my graduate research i've successfully reproduced results of published papers and helped my lab mates in building a more robust CNNs to detect bearings faults.
+          During my graduate research, I successfully reproduced the results of published papers and helped my lab mates in building more robust CNNs to detect bearings faults.
           * [1D-CNN Vibration Signal Bearing Fault Diagnosis](github.com/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis)
           * [Hierarchical diagnosis of bearing faults using branch convolutional neural network considering noise interference and variable working conditions](github.com/Abdulhamid97Mousa/Hierarchical_Diagnosis_BearingFaults_B_C2N)
 
@@ -122,12 +118,12 @@ content:
         quote: >
           Published A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ball-screw Actuator as 3rd Author.
         description: | # this will include new lines to allow paragraphs
-          <mark>Published A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ball-screw Actuator as 3rd Author</mark>. in order to show-case my work i need to explain somethings about the project, 
+          <mark>Published A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ball-screw Actuator as 3rd Author</mark>. in order to showcase my work I need to explain the purpose behind building such a tool and how we can benefit from it.
           A Capsule-type device for soft tissue cutting using a threadless ballscrew actuator is a device with the potential to revolutionize the way surgeons perform soft tissue cutting during surgery. 
           This device is a compact and lightweight motorized tool, which utilizes a ballscrew actuator to provide precise control of the cutting blade. 
           The device is designed to be inserted into the patient’s body and used to cut through soft tissue with minimal invasiveness and less trauma to the patient.
-          The device consists of a precision-machined outer casing which houses the ballscrew, a motor, and a cutting blade. 
-          The ballscrew is responsible for converting the rotational motion of the motor into linear motion, enabling the cutting blade to move in a straight line. 
+          The device consists of a precision-machined outer casing that houses the ball screw, a motor, and a cutting blade. 
+          The ball screw is responsible for converting the rotational motion of the motor into linear motion, enabling the cutting blade to move in a straight line. 
           This makes it possible to achieve a more precise cut than with a manual blade. The motor is also designed to be adjustable, 
           allowing the user to adjust the speed of the cutting process depending on the type of tissue being cut. The device is highly beneficial for surgeons as it can reduce operative time, reduce the amount of tissue trauma, and improve the accuracy of the cutting process.
           * [A Capsule-Type Device for Soft Tissue Cutting Using a Threadless Ballscrew Actuator](https://ieeexplore.ieee.org/document/8860958)
