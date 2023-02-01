@@ -43,13 +43,10 @@ content:
   - title: Objectives # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      I am writing to express my interest in the <mark>System Administration</mark> role which will help me later in building a career as <mark> DevOps engineer</mark>. With my experience in IT and system administration,
-      I am confident in my skills and looking for opportunities to grow in the DevOps field and turn my knowledge into well-architected solutions.
-      With that being said, having been in the IT industry for the past 3 years, During that time,  have developed a wide range of skills ranging from
-      <mark>configuring, managing, deploying infrastructure (On-premise or On-AWS Cloud), Utilizing a variety of tools
-      (Ansible/Terraform, Bash-scripting/PowerShell/Python), scheduling software installation and backups, and
-      troubleshooting, bug fixing, and documenting</mark>. Similarly, I have successfully implemented a number of IT projects, 
-      which have improved the efficiency and reliability of existing IT solutions. Last but not least, I also want to highlight my ability to work autonomously or collaboratively, and am proficient in a variety of computer programs and operating systems, such as <mark>Debian-based (Ubuntu), Redhat-based (Rhel/CentOS), and Windows Server</mark>.
+      I am writing to express my interest in the <mark>System Administration</mark> position which will help me later in building a career as <mark> DevOps engineer</mark>. As a  System Administration,
+      I am confident in my skills and looking for opportunities to learn and grow in the DevOps field and turn my knowledge into well-architected IT solutions.
+      With that being said, I have successfully implemented a numerous IT projects, which have improved the efficiency and reliability of existing IT solutions. Last but not least, I want to highlight my ability 
+      to work autonomously or collaboratively, and am proficient in a variety of operating systems, scomputer programs, and technologies.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
