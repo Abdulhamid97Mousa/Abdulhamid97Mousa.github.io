@@ -81,7 +81,7 @@ content:
           To accomplish this, we utilized a variety of AWS services and tools. 
           * Gained a basic understanding of the IT services available on AWS and their use cases. We researched AWS services such as <mark>EC2, S3, RDS, Route53
           and IAM</mark> while setting up a <mark>budget and billing alarms</mark> to be notified and act accordingly. 
-          * Utilized essential tools for handling files, directories, and services. Among these services such as <mark> SSH, DHCP, DNS, HTTP, FTP, NFS, NTP, Cron, and Loggings </mark>. 
+          * Utilized essential tools for handling files, directories, and services. Among these services such as <mark> SSH, DHCP, DNS, HTTP, VPN, FTP, NFS, NTP, Cron, Loggings </mark>. 
           * Familiarized me with the command-line environment and shell scripts to configure the infrastructure.
           * Created and configured file systems, and followed best practices and conventions according to AWS Documentation. created partitions and logical volumes, and configured user accounts and groups.
           * Deployed, configured, and maintained systems, including regular software updates and installation, and regular backing up data to increase reliability and fault tolerance. 
