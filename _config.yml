@@ -34,7 +34,7 @@ about_title: About Me
 about_profile_image: img/profile.jpg
 
 about_content: | # this will include new lines to allow paragraphs
-  Hamid is a <mark>System Administration</mark> who is Aspiring to be <mark>DevOps Engineer</mark> in the future. possesses a deep understanding of IT infrastructure and networking protocols, 
+  Hamid is a <mark>System Administrator</mark> who is Aspiring to be <mark>DevOps Engineer</mark> in the future. possesses a deep understanding of IT infrastructure and networking protocols, 
   and is proficient in both deploying and managing <mark> IT infrastructure </mark>. He is a quick learner, with a passion for exploring new technologies and creating IT solutions. 
   currently, studying containerization & cloud native technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark>. he has developed an interest in automation and deployment tools like <mark>Ansible</mark> and <mark>Terraform</mark>. 
   his dedication, problem-solving skills, and friendly nature makes him a ideal person for deploying, managing, and troubleshooting IT solutions. 
