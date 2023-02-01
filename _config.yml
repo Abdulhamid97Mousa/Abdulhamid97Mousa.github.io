@@ -34,7 +34,7 @@ about_title: About Me
 about_profile_image: img/profile.jpg
 
 about_content: | # this will include new lines to allow paragraphs
-  Hamid is a <mark>System Administration</mark> and Aspiring to be <mark>DevOps Engineer</mark> in the future. possesses a deep understanding of IT infrastructure and networking protocols, 
+  Hamid is a <mark>System Administration</mark> who is Aspiring to be <mark>DevOps Engineer</mark> in the future. possesses a deep understanding of IT infrastructure and networking protocols, 
   and is proficient in both deploying and managing <mark> IT infrastructure </mark>. He is a quick learner, with a passion for exploring new technologies and creating IT solutions. 
   currently, studying containerization & cloud native technologies such as <mark>Docker</mark> and <mark>Kubernetes</mark>. he has developed an interest in automation and deployment tools like <mark>Ansible</mark> and <mark>Terraform</mark>. 
   his dedication, problem-solving skills, and friendly nature makes him a ideal person for deploying, managing, and troubleshooting IT solutions. 
@@ -45,11 +45,11 @@ content:
     content: | # this will include new lines to allow paragraphs
       I am writing to express my interest in the <mark>System Administration</mark> role which will help me later in building a career as <mark> DevOps engineer</mark>. With my experience in IT and system administration,
       I am confident in my skills and looking for opportunities to grow in the DevOps field and turn my knowledge into well-architected solutions.
-      With that being said, having been in the IT industry for the past 3 years, During that time, I have maintained and managed computer systems and networks with a high level of efficiency.
-      In addition, I have also developed a wide range of skills in deploying infrastructure using <mark>Ansible</mark> and <mark>Terraform</mark> whether on-premise or on <mark>AWS Cloud</mark>,
-      programming with <mark>Python</mark>, scheduled software installation and backups, regular maintenance, and troubleshooting.
-      Similarly, I have successfully implemented a number of IT projects, which have improved the efficiency and reliability of existing IT solutions. 
-      Last but not least, I also want to shed light on my ability to work autonomously or collaboratively, and am proficient in a variety of computer programs and operating systems, such as <mark>Debian-based (Ubuntu), Redhat-based (Rhel/CentOS), and Windows Server</mark>.
+      With that being said, having been in the IT industry for the past 3 years, During that time,  have developed a wide range of skills ranging from
+      <mark>configuring, managing, deploying infrastructure (On-premise or On-AWS Cloud), Utilizing a variety of tools
+      (Ansible/Terraform, Bash-scripting/PowerShell/Python), scheduling software installation and backups, and
+      troubleshooting, bug fixing, and documenting</mark>. Similarly, I have successfully implemented a number of IT projects, 
+      which have improved the efficiency and reliability of existing IT solutions. Last but not least, I also want to highlight my ability to work autonomously or collaboratively, and am proficient in a variety of computer programs and operating systems, such as <mark>Debian-based (Ubuntu), Redhat-based (Rhel/CentOS), and Windows Server</mark>.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -211,9 +211,9 @@ content:
     content: |
       * [Red Hat® Certified System Administrator (RHCSA®)](https://www.credly.com/earner/earned/badge/652955ed-af09-446d-88a7-2f317d49a0f2)
       * [Red Hat® Certified Engineer (RHCE®)](https://www.credly.com/earner/earned/badge/22368683-c38a-4881-8c38-41dc1787b023)
-      * [Cisco Certified Network Associate (CCNA®) ](https://www.credly.com/earner/earned/badge/adf12bd6-68ba-4c40-9fc3-aeba38933ad7)
-      * [ AWS Certified Cloud Practitioner (CLF) ](https://www.credly.com/earner/earned/badge/30eea3fe-12ed-4a30-a19d-1b1915bd424a)
-      * [[PCAP-31-03] PCAP Certified Associate in Python Programming](https://www.credly.com/earner/earned/badge/4e5eee86-1f04-4de3-8877-414a6178ebbb)
+      * [Cisco Certified Network Associate (CCNA®)](https://www.credly.com/earner/earned/badge/adf12bd6-68ba-4c40-9fc3-aeba38933ad7)
+      * [AWS Certified Cloud Practitioner (CLF)](https://www.credly.com/earner/earned/badge/30eea3fe-12ed-4a30-a19d-1b1915bd424a)
+      * [PCAP Certified Associate in Python Programming [PCAP-31-03]](https://www.credly.com/earner/earned/badge/4e5eee86-1f04-4de3-8877-414a6178ebbb)
       *  On-progress  [Certified Kubernetes Administrator](https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator)
       *  On-progress  [AWS Certified Solutions Architect](https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate)
 
